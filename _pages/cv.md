@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,27 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* (Ongoing) Ph.D in Industrial Engineering, University of South Florida, U.S.A., 2025 (expected)
+* BS-MS in Mathematics, National Institute of Technology Agartala, India, May 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Associate, Area of Production & Quantitative Methods, Indian Institute of Management Ahmedabad, India.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mitacs Globalink Research Intern, Department of Mathematics & Statistics, University of Regina.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Winter Internship at Department of Mathematics, Central University of Kerala.
+
+* Summer Research Intern at C.R.Rao Advanced Institute of Mathematics, Statistics and Computer Science.
+
+<!-- 
 Skills
 ======
 * Skill 1
@@ -39,26 +32,8 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Skill 3 -->
   
-Talks
+<!-- Service and leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
