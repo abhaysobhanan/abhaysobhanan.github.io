@@ -55,6 +55,7 @@ Service
 
 * Professional Chair, Tau Beta Pi - Florida Gamma Chapter during Fall 2022. 
 
+
 <!-- 
 Skills
 ======
