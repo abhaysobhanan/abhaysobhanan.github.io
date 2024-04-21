@@ -23,9 +23,9 @@ Research Experience
 
 * Research Assistant, University of South Florida during Spring 2023, and Spring 2024 - Present.
 
-* Research Associate, Area of Production & Quantitative Methods, Indian Institute of Management Ahmedabad, India.
+* Research Associate, Area of Production & Quantitative Methods, Indian Institute of Management Ahmedabad, India during July 2019 - June 2020.
 
-* Mitacs Globalink Research Intern, Department of Mathematics & Statistics, University of Regina.
+* Mitacs Globalink Research Intern, Department of Mathematics & Statistics, University of Regina during May 2016 - August 2016. 
 
 
 Awards and Honors
@@ -36,11 +36,11 @@ Awards and Honors
 
 * PhD student travel grant to attend INFORMS TSL Conference 2023, Chicago from United States National Science Foundation. 
 
-* USF Graduate Fellowship during Fall 2020 - Spring 2021. 
-*Awarded to selected first year graduate students.*
+* USF Graduate Fellowship during Fall 2020 - Spring 2021.
+  *Awarded to selected first year graduate students.*
 
-* Mitacs Globalink Research Intern
-*Scholarship from [Mitacs](https://www.mitacs.ca) promoting research among undergraduate students.*
+* Mitacs Globalink Research Intern.
+  *Scholarship from [Mitacs](https://www.mitacs.ca) promoting research among undergraduate students.*
 
 Service
 ======

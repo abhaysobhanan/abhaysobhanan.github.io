@@ -30,7 +30,7 @@ author_profile: true
 
 <li> Operational Research Society of India Annual Conference held at IIM Ahmedabad, India during December 15-18, 2019.
   
-  Title: <em>Dynamic Allocation of E-commerce Orders to Order-fulfillment Centers under Disruptions</em> at the 
+  Title: <em>Dynamic Allocation of E-commerce Orders to Order-fulfillment Centers under Disruptions</em>
 </li>
 
 <li> International Conference on Applied and Computational Mathematics 2018 held at IIT Kharagpur, India during November 23-25, 2018.
