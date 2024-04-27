@@ -12,8 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Miscellaneous"
-    url: /year-archive/
+  # - title: "Miscellaneous"
+  #   url: /year-archive/
 
   # - title: "Resources"
   #   url: /portfolio/
