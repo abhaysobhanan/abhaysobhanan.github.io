@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* (Ongoing) Ph.D in Industrial Engineering, University of South Florida, U.S.A., 2025 (expected)
+* (Ongoing) Ph.D in Industrial Engineering, University of South Florida, U.S.A., 2025.
 * BS-MS in Mathematics, National Institute of Technology Agartala, India, May 2019.
   
   Visiting Student at:

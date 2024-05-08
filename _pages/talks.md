@@ -13,7 +13,7 @@ author_profile: true
   Title: <em>A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet</em> 
 </li>
 
-<li> [To Appear] 34th Annual POMS Conference, Minneapolis, U.S.A. during April 25 - 29, 2024.
+<li> 34th Annual POMS Conference, Minneapolis, U.S.A. during April 25 - 29, 2024.
   
   Title: <em>Optimizing Fairness and Efficiency in Heterogeneous Fleet Open Vehicle Routing Problem</em> 
 </li>

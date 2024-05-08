@@ -12,11 +12,11 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Resources"
+    url: /resources/
+
   # - title: "Miscellaneous"
   #   url: /year-archive/
-
-  # - title: "Resources"
-  #   url: /portfolio/
     
   # - title: "Guide"
   #   url: /markdown/
