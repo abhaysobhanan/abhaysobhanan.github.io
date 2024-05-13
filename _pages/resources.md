@@ -41,3 +41,5 @@ author_profile: true
 - [A Happy PhD](https://ahappyphd.org){:target="_blank"} is a blog about doctoral productivity, supervision and wellbeing.
 
 - [Scriptoria](https://www.scriptoria.org/en/){:target="_blank"} is a blog with a collection of articles designed to guide PhD students in writing their scientific articles.
+
+- [Generate font pairings](https://fontjoy.com) that works well for your presentation slides. 
