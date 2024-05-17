@@ -34,7 +34,7 @@ author_profile: true
 
 ## PhD Students
 
-- LaTeX is a highly recommended writing tool if your research is in mathematics, engineering or related fields. Beginners may refer to [this]((https://stom.chkwon.net/latex/)) tutorial.
+- LaTeX is a highly recommended writing tool if your research is in mathematics, engineering or related fields. Beginners may refer to [this](https://stom.chkwon.net/latex/) tutorial.
 
 - Git: If you code often (or plan to), learn about this version control system. See [this](https://www.w3schools.com/git/default.asp) tutorial for details. 
 

@@ -30,7 +30,8 @@ Research Experience
 
 Awards and Honors
 ======
-* Finalist for 2024 IISE OR Track Best Paper Award. 
+* 2024 IISE Best Paper Award Finalist in the Operations Research Division.
+Paper: *A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet* with Sasan Mahmoudinazlou, Hadi Charkhgard and Changhyun Kwon.
 
 * International Travel Grant from the Office of Graduate Studies, USF to participate in IISE Annual Conference & Expo 2024.
 
@@ -45,7 +46,7 @@ Awards and Honors
 Service
 ======
 * Active Peer Reviewer in Operations Research.
- Reviewed articles for *Transportation Research Board (TRB) Annual Meetings*, *Transportation Research Record (TRR)*, *Socio-Economic Planning Sciences*, and *IISE Annual Meetings*.
+ Reviewed articles for *Transportation Research Board (TRB) Annual Meetings*, *Transportation Research Record (TRR)*, *Socio-Economic Planning Sciences*, *IISE Annual Meetings*, and *Optimization Letters*.
 
 * Tutor for Giunta Middle School, Tampa, through Bright Young Minds Alliance at University of South Florida during Fall 2023 - Spring 2024.
 
