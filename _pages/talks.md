@@ -8,7 +8,12 @@ author_profile: true
 # Conference Presentations
 
 <ol reversed>
-<li> [To Appear] IISE Annual Conference & Expo 2024, Montreal, Canada during May 18 - 21, 2024.
+<li> [To Appear] INFORMS Annual Conference, Seattle, U.S.A. during October 20-23, 2024.
+  
+  Title: <em>Towards Equitable Workload Distribution in Last-Mile Delivery for the Gig Economy: The Dispatch Zone-Wave Problem</em> 
+</li>
+
+<li> IISE Annual Conference & Expo 2024, Montreal, Canada during May 18 - 21, 2024.
   
   Title: <em>A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet</em> 
 </li>

@@ -12,6 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 # Resources
+Some useful resources for Operations Research enthusiasts and PhD students.
 
 ## Operations Research
 
@@ -24,6 +25,8 @@ author_profile: true
 - Some of the popular tools that could help you solve your optimization problems:
   - Commercial solvers: CPLEX, Gurobi Optimizer
   - Open-source solvers: SCIP (for MIP, MINLP), GLPK (widely used), Google's OR Tools, VROOM (for vehicle routing problems)
+  
+- [VeRoViz](https://veroviz.org) is an open-source package for visualization and data generation of vehicle routing problems.
 
 ## General
 

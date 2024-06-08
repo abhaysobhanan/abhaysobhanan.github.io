@@ -43,10 +43,18 @@ Paper: *A branch-and-price algorithm for emergency humanitarian logistics with a
 * Mitacs Globalink Research Intern.
   *Scholarship from [Mitacs](https://www.mitacs.ca) promoting research among undergraduate students.*
 
+
+Projects
+======
+* Consultant for Cobblestone Milk during Summer 2021.
+Developed an optimization software for milk transportation logistics using Julia in collaboration with Sasan Mahmoudinazlou and Changhyun Kwon.
+
+
+
 Service
 ======
 * Active Peer Reviewer in Operations Research.
- Reviewed articles for *Transportation Research Board (TRB) Annual Meetings*, *Transportation Research Record (TRR)*, *Socio-Economic Planning Sciences*, *IISE Annual Meetings*, and *Optimization Letters*.
+ Reviewed articles for *Transportation Research Board (TRB) Annual Meetings*, *Transportation Research Record (TRR)*, *Socio-Economic Planning Sciences*, *IISE Annual Meeting 2024*, and *Optimization Letters*.
 
 * Tutor for Giunta Middle School, Tampa, through Bright Young Minds Alliance at University of South Florida during Fall 2023 - Spring 2024.
 

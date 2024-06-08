@@ -24,7 +24,18 @@ author_profile: true
 
 
 # Articles under Review
-1. [Revision 1, Transportation Science] Sobhanan A, Park J, Park J, Kwon C. Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems. arXiv preprint arXiv:2310.14157. 2023 Oct 22.<span style="display: inline-block; width: 10px;"></span>
+<ol reversed>
+<li> [Submitted, Manufacturing & Service Operations Management] Sobhanan A, Charkhgard H, Dayarian I. Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery.<span style="display: inline-block; width: 10px;"></span>
+    <details style="display: inline-block; font-size: 80%;">
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
+    <br>
+    <div class="justified-text">
+    Crowdshipping, a rapidly growing approach in Last-Mile Delivery (LMD), relies on independent crowdworkers for delivery orders. Building a sustainable network of crowdshippers is essential for the survival and growth of such systems, while their participation is primarily motivated by fair pay. Additionally, the financial well-being of crowdworkers is sensitive to fair compensation, especially for those who depend on crowdwork as their main source of income. Therefore, equitable workload allocation and compensation mechanisms in crowdsourcing platforms will benefit both platforms and crowdworkers. We aim to answer several questions gig-economy platforms interested in fair pay may ask: How to measure equity, assess the cost benefits, and manage potential drawbacks? Our main contribution is the proposal of a practical equity-oriented framework tailored to crowdshipping within an LMD environment. This framework draws inspiration from the real-world operations of a group of crowdshipping platforms and operates in real-time. At its core is a bi-objective optimization process that balances equity and cost, aiming to address the study’s main research questions. Built on a theoretical foundation, it enables the use of various equity measures and allows us to identify the equity measure that most reliably explores the trade-offs between cost and equity. We show that even a marginal sacrifice in cost efficiency (e.g., 2.5%) can significantly improve equity, potentially up to 39%. We provide actionable recommendations for practitioners, offering insights into selecting equity measures.We demonstrate that significant improvements in pay equity can be achieved with minimal increases in company’s operational costs. Our experiments reveal that the best level of equity is achieved when the pool of employed crowdshippers is kept as small as possible. We quantify the loss of high and low-performing crowdshippers as the crowdshipper pool size increases, offering further insights for workforce management.
+    </div>
+    </details>
+</li>
+
+<li> [Revision 1, Transportation Science] Sobhanan A, Park J, Park J, Kwon C. Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems. arXiv preprint arXiv:2310.14157. 2023 Oct 22.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -42,10 +53,14 @@ author_profile: true
     code
     </a> 
     </summary>
+</li>
+</ol>
 
 # Journal Articles
 
-1. Golui S, Pal C, Manikandan R, Sobhanan A. Optimal control of a dynamic production-inventory system with various cost criteria. Annals of Operations Research. 2023 Nov 27:1-29. <span style="display: inline-block; width: 10px;"></span>
+<ol reversed>
+
+<li> Golui S, Pal C, Manikandan R, Sobhanan A. Optimal control of a dynamic production-inventory system with various cost criteria. Annals of Operations Research. 2023 Nov 27:1-29. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -58,11 +73,15 @@ author_profile: true
     https://doi.org/10.1007/s10479-023-05716-5
     </a> 
     </summary>
+</li>
+
+</ol>
 
 
 # Refereed Conference Proceedings
+<ol reversed>
 
-1. [Accepted for Presentation] Sobhanan A, Mahmoudinazlou S, Charkhgard H, Kwon C. A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet. Proceedings of the IISE Annual Conference & Expo 2024. <span style="display: inline-block; width: 10px;"></span>
+<li> Sobhanan A, Mahmoudinazlou S, Charkhgard H, Kwon C. A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet. Proceedings of the IISE Annual Conference & Expo 2024. [Best Paper Award Finalist, Operations Research Division] <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -76,11 +95,6 @@ author_profile: true
     We further develop a branch-and-price algorithm to solve this problem, where the pricing subproblem is solved using dynamic programming recursions with dominance rules. 
     Our results demonstrate the computational superiority of this method compared to a commercial optimization solver and its potential for expediting aid distribution during an emergency.
     </div>
-    <!-- # commented out
-    </details>
-    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
-    <a href="https:url.com" style="text-decoration: none; color: inherit;">
-    url_name
-    </a> 
-    </summary>
-    -->
+</li>
+
+</ol>
