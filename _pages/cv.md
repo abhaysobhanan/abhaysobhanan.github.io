@@ -31,7 +31,8 @@ Research Experience
 Awards and Honors
 ======
 * 2024 IISE Best Paper Award Finalist in the Operations Research Division.
-Paper: *A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet* with Sasan Mahmoudinazlou, Hadi Charkhgard and Changhyun Kwon.
+
+  Paper: *A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet* with Sasan Mahmoudinazlou, Hadi Charkhgard and Changhyun Kwon.
 
 * International Travel Grant from the Office of Graduate Studies, USF to participate in IISE Annual Conference & Expo 2024.
 
@@ -47,7 +48,8 @@ Paper: *A branch-and-price algorithm for emergency humanitarian logistics with a
 Projects
 ======
 * Consultant for Cobblestone Milk during Summer 2021.
-Developed an optimization software for milk transportation logistics using Julia in collaboration with Sasan Mahmoudinazlou and Changhyun Kwon.
+
+  Developed an optimization software for milk transportation logistics using Julia in collaboration with Sasan Mahmoudinazlou and Changhyun Kwon.
 
 
 
