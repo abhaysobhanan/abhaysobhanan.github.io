@@ -41,6 +41,8 @@ Some useful resources for Operations Research enthusiasts and PhD students.
 
 - Git: If you code often (or plan to), learn about this version control system. See [this](https://www.w3schools.com/git/default.asp) tutorial for details. 
 
+- [SEDAC Population Estimation Service](https://beta.sedac.ciesin.columbia.edu/data/collection/gpw-v4/population-estimation-service) is a web-based service for estimating population statistics within a user defined area. 
+
 - [A Happy PhD](https://ahappyphd.org){:target="_blank"} is a blog about doctoral productivity, supervision and wellbeing.
 
 - [Scriptoria](https://www.scriptoria.org/en/){:target="_blank"} is a blog with a collection of articles designed to guide PhD students in writing their scientific articles.
