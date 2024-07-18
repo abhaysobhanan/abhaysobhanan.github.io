@@ -47,7 +47,7 @@ Awards and Honors
 
 Projects
 ======
-* Consultant for Cobblestone Milk during Summer 2021.
+* Consultant for Cobblestone Milk Cooperative during Summer 2021.
 
   Developed an optimization software for milk transportation logistics using Julia in collaboration with Sasan Mahmoudinazlou and Changhyun Kwon.
 

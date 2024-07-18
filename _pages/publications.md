@@ -35,7 +35,13 @@ author_profile: true
     </details>
 </li>
 
-<li> [Revision 1, Transportation Science] Sobhanan A, Park J, Park J, Kwon C. "Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems". arXiv preprint arXiv:2310.14157. 2023 Oct 22.<span style="display: inline-block; width: 10px;"></span>
+</ol>
+
+# Journal Articles
+
+<ol reversed>
+
+<li> [Accepted, Transportation Science] Sobhanan A, Park J, Park J, Kwon C. "Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems". arXiv preprint arXiv:2310.14157. 2023 Oct 22.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -54,11 +60,7 @@ author_profile: true
     </a> 
     </summary>
 </li>
-</ol>
 
-# Journal Articles
-
-<ol reversed>
 
 <li> Golui S, Pal C, Manikandan R, Sobhanan A. "Optimal control of a dynamic production-inventory system with various cost criteria". Annals of Operations Research. 2023 Nov 27:1-29. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
