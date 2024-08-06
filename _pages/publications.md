@@ -25,14 +25,35 @@ author_profile: true
 
 # Articles under Review
 <ol reversed>
-<li> [Submitted, Manufacturing & Service Operations Management] Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery".<span style="display: inline-block; width: 10px;"></span>
+<li> [Submitted, Computers & Operations Research] Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". arXiv preprint arXiv:2408.01656. 2024 Aug 03. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
     <div class="justified-text">
-    To be available soon.
+    Order picking is a crucial operation in warehouses that significantly impacts overall efficiency and profitability. This study addresses the dynamic order picking problem, a significant concern in modern warehouse management where real-time adaptation to fluctuating order arrivals and efficient picker routing are crucial. Traditional methods, often assuming fixed order sets, fall short in this dynamic environment. We utilize Deep Reinforcement Learning (DRL) as a solution methodology to handle the inherent uncertainties in customer demands. We focus on a single-block warehouse with an autonomous picking device, eliminating human behavioral factors. Our DRL framework enables the dynamic optimization of picker routes, significantly reducing order throughput times, especially under high order arrival rates. Experiments demonstrate a substantial decrease in order throughput time and unfulfilled orders compared to benchmark algorithms. We further investigate integrating a hyperparameter in the reward function that allows for flexible balancing between distance traveled and order completion time. Finally, we demonstrate the robustness of our DRL model for out-of-sample test instances.
     </div>
     </details>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://arxiv.org/abs/2408.01656" style="text-decoration: none; color: inherit;">
+    arXiv:2408.01656
+    </a> 
+    </summary>
+</li>
+
+
+<li> [Submitted, INFORMS Journal on Computing] Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Optimization Online preprint 27199. 2024 July 31.<span style="display: inline-block; width: 10px;"></span>
+    <details style="display: inline-block; font-size: 80%;">
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
+    <br>
+    <div class="justified-text">
+    Crowdshipping, a rapidly growing approach in Last-Mile Delivery (LMD), relies on independent crowdworkers for delivery orders. Building a sustainable network of crowdshippers is essential for the survival and growth of such systems, while their participation is primarily motivated by fair pay. Additionally, the financial well-being of crowdworkers is sensitive to fair compensation, especially for those who depend on crowdwork as their main source of income. Therefore, equitable workload allocation and compensation mechanisms in crowdsourcing platforms will benefit both platforms and crowdworkers. We aim to answer several questions gig-economy platforms interested in fair pay may ask: How to measure equity, assess the cost benefits, and manage potential drawbacks? Our main contribution is the proposal of a practical equity-oriented framework tailored to crowdshipping within an LMD environment. This framework draws inspiration from the real-world operations of a group of crowdshipping platforms and operates in real-time. At its core is a bi-objective optimization process that balances equity and cost, aiming to address the study's main research questions. Built on a theoretical foundation, it enables the use of various equity measures and allows us to identify the equity measure that most reliably explores the trade-offs between cost and equity. We show that even a marginal sacrifice in cost efficiency (e.g., 2.5%) can significantly improve equity, potentially up to 39%. We provide actionable recommendations for practitioners, offering insights into selecting equity measures. We demonstrate that significant improvements in pay equity can be achieved with minimal increases in company's operational costs. Our experiments reveal that the best level of equity is achieved when the pool of employed crowdshippers is kept as small as possible. We quantify the loss of high and low-performing crowdshippers as the crowdshipper pool size increases, offering further insights for workforce management.
+    </div>
+    </details>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://optimization-online.org/?p=27199" style="text-decoration: none; color: inherit;">
+    preprint
+    </a> 
+    </summary>
 </li>
 
 </ol>
