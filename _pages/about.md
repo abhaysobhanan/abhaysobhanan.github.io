@@ -20,3 +20,7 @@ Abhay Sobhanan is interested in the fields of Operations Research, Discrete Math
 * Deep Learning Applications
 * Warehouse Order Picking Problem
 * Advancements in Multi-objective Optimization
+
+
+---
+Abhay Sobhanan's detailed CV is available [[here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf)].

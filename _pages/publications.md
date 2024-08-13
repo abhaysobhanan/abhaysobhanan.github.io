@@ -25,7 +25,7 @@ author_profile: true
 
 # Articles under Review
 <ol reversed>
-<li> [Submitted, Computers & Operations Research] Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". arXiv preprint arXiv:2408.01656. 2024 Aug 03. <span style="display: inline-block; width: 10px;"></span>
+<li> [Under review, Computers & Operations Research] Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". arXiv preprint arXiv:2408.01656. 2024 Aug 03. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -41,7 +41,7 @@ author_profile: true
 </li>
 
 
-<li> [Submitted, INFORMS Journal on Computing] Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Optimization Online preprint 27199. 2024 July 31.<span style="display: inline-block; width: 10px;"></span>
+<li> [Under review, INFORMS Journal on Computing] Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Optimization Online preprint 27199. 2024 July 31.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -83,7 +83,7 @@ author_profile: true
 </li>
 
 
-<li> Golui S, Pal C, Manikandan R, Sobhanan A. "Optimal control of a dynamic production-inventory system with various cost criteria". Annals of Operations Research. 2023 Nov 27:1-29. <span style="display: inline-block; width: 10px;"></span>
+<li> Golui S, Pal C, Manikandan R, Sobhanan A. "Optimal control of a dynamic production-inventory system with various cost criteria". Annals of Operations Research, 337(1), 75-103. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
