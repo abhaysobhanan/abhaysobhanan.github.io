@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-Abhay Sobhanan's detailed CV is available [here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}.
+A detailed CV is available [here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}.
 
 Education
 ======

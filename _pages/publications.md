@@ -62,7 +62,7 @@ author_profile: true
 
 <ol reversed>
 
-<li> [Accepted, Transportation Science] Sobhanan A, Park J, Park J, Kwon C. "Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems". arXiv preprint arXiv:2310.14157. 2023 Oct 22.<span style="display: inline-block; width: 10px;"></span>
+<li> Sobhanan A, Park J, Park J, Kwon C. "Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems". Transportation Science, to appear. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -78,6 +78,11 @@ author_profile: true
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
     <a href="https://github.com/abhaysobhanan/GANCP" style="text-decoration: none; color: inherit;">
     code
+    </a> 
+    </summary>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://doi.org/10.1287/trsc.2023.0369" style="text-decoration: none; color: inherit;">
+    https://doi.org/10.1287/trsc.2023.0369
     </a> 
     </summary>
 </li>
