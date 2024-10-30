@@ -25,7 +25,7 @@ author_profile: true
 
 # Articles under Review
 <ol reversed>
-<li> [Under review, Computers & Operations Research] Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". arXiv preprint arXiv:2408.01656. 2024 Aug 03. <span style="display: inline-block; width: 10px;"></span>
+<li> [Major Revision, Computers & Operations Research] Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". arXiv preprint arXiv:2408.01656. 2024 Aug 03. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>

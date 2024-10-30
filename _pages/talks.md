@@ -8,7 +8,7 @@ author_profile: true
 # Conference Presentations
 
 <ol reversed>
-<li> [To Appear] INFORMS Annual Conference, Seattle, U.S.A. during October 20-23, 2024.
+<li> INFORMS Annual Conference, Seattle, U.S.A. during October 20-23, 2024.
   
   Title: <em>Towards Equitable Workload Distribution in Last-Mile Delivery for the Gig Economy: The Dispatch Zone-Wave Problem</em> 
 </li>
