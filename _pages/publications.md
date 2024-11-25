@@ -41,7 +41,7 @@ author_profile: true
 </li>
 
 
-<li> [Under review, INFORMS Journal on Computing] Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Optimization Online preprint 27199. 2024 July 31.<span style="display: inline-block; width: 10px;"></span>
+<li> [Under review, Production and Operations Management] Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Optimization Online preprint 27199. 2024 July 31.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
