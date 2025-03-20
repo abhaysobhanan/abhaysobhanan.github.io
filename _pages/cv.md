@@ -31,6 +31,9 @@ Research Experience
 
 Awards and Honors
 ======
+* Summer Dissertation Completion Fellowship, Office of Graduate Studies, University of South Florida. 
+  *Awarded in recognition of academic excellence and includes $10,000 stipend and coverage of tuition, fees, and health insurance.*
+
 * 2024 IISE Best Paper Award Finalist in the Operations Research Division.
 
   Paper: *A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet* with Sasan Mahmoudinazlou, Hadi Charkhgard and Changhyun Kwon.

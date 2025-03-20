@@ -23,4 +23,6 @@ Abhay Sobhanan is interested in the fields of Operations Research, Discrete Math
 
 
 ---
-Abhay Sobhanan's detailed CV is available [[here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}].
+<!-- Abhay Sobhanan's detailed CV is available [[here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}]. -->
+
+*I welcome opportunities for academic and research engagements, including invited talks, seminars, collaborations, and other scholarly activities. If you are interested in discussing potential opportunities, please feel free to reach out.*
