@@ -7,22 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Abhay Sobhanan is a PhD Candidate in Industrial Engineering at the [University of South Florida](https://www.usf.edu){:target="_blank"}. He is pursuing research under the guidance of Dr. [Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/){:target="_blank"} and Dr. [Changhyun Kwon](https://www.chkwon.net){:target="_blank"}. His doctoral research focuses on optimizing large-scale vehicle routing problems, incorporating methodological advancements, and addressing real-life concerns like equitable workload allocation.
+I am a PhD Candidate in Industrial Engineering at the [University of South Florida](https://www.usf.edu){:target="_blank"}, working under the guidance of Dr. [Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/){:target="_blank"} and Dr. [Changhyun Kwon](https://www.chkwon.net){:target="_blank"}. My doctoral research centers on optimizing large‑scale vehicle‑routing problems, developing new methodologies, and tackling real‑world issues such as equitable workload allocation.
 
-Prior to joining USF, Abhay Sobhanan worked as a Research Associate at the Indian Institute of Management Ahmedabad, India. He graduated with a BS-MS dual degree in Mathematics from National Institute of Technology Agartala, India in 2019. His master's thesis was on the topic of Type-2 Fuzzy Multi-Criteria Decision Making.	
-
+Before joining USF, I served as a Research Associate at the Indian Institute of Management Ahmedabad, India. I earned a BS‑MS dual degree in Mathematics from the National Institute of Technology Agartala in 2019, where my master’s thesis explored Type‑2 Fuzzy Multi‑Criteria Decision Making.
 
 Research Directions
 ======
-Abhay Sobhanan is interested in the fields of Operations Research, Discrete Mathematics, Deep Learning, and Queueing Theory. Currently, his research focuses on combinatorial optimization problems, and the on-going works can be listed as follows:
-* Optimization of Transportation Networks
-* Exact and Heuristic Optimization Methods
-* Deep Learning Applications
-* Warehouse Order Picking Problem
-* Advancements in Multi-objective Optimization
+I am interested in Operations Research, Discrete Mathematics, Deep Learning, and Queueing Theory. Right now, my work focuses on combinatorial optimization problems, including:
+
+* Optimization of Transportation Networks  
+* Exact and Heuristic Optimization Methods  
+* Deep Learning Applications  
+* Warehouse Order‑Picking Problem  
+* Advancements in Multi‑objective Optimization  
 
 
----
+<!-- --- -->
 <!-- Abhay Sobhanan's detailed CV is available [[here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}]. -->
 
-*I welcome opportunities for academic and research engagements, including invited talks, seminars, collaborations, and other scholarly activities. If you are interested in discussing potential opportunities, please feel free to reach out.*
+<!-- *I welcome opportunities for academic and research engagements, including invited talks, seminars, collaborations, and other scholarly activities. If you are interested in discussing potential opportunities, please feel free to reach out.* -->
