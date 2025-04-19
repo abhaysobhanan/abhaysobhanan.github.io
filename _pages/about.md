@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD Candidate in Industrial Engineering at the [University of South Florida](https://www.usf.edu){:target="_blank"}, working under the guidance of Dr. [Hadi Gard](http://www.eng.usf.edu/~hcharkhgard/){:target="_blank"} and Dr. [Changhyun Kwon](https://www.chkwon.net){:target="_blank"}. My doctoral research centers on optimizing large‑scale vehicle‑routing problems, developing new methodologies, and tackling real‑world issues such as equitable workload allocation.
 
-Before joining USF, I served as a Research Associate at the Indian Institute of Management Ahmedabad, India. I earned a BS‑MS dual degree in Mathematics from the National Institute of Technology Agartala in 2019, where my master’s thesis explored Type‑2 Fuzzy Multi‑Criteria Decision Making.
+Before joining USF, I worked as a Research Associate at the Indian Institute of Management Ahmedabad, India. I earned a BS‑MS dual degree in Mathematics from the National Institute of Technology Agartala in 2019, where my master’s thesis explored Type‑2 Fuzzy Multi‑Criteria Decision Making.
 
 Research Directions
 ======
