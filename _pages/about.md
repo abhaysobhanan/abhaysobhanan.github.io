@@ -24,7 +24,6 @@ I am interested in Operations Research, Discrete Mathematics, Deep Learning, and
 * Advancements in Multi‑objective Optimization  
 
 
-
 ---
 <!-- Abhay Sobhanan's detailed CV is available [[here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}]. -->
 
