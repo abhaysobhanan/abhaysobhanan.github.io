@@ -25,21 +25,6 @@ author_profile: true
 
 # Articles under Review
 <ol reversed>
-<li> [Major Revision, Computers & Operations Research] Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". arXiv preprint arXiv:2408.01656. 2024 Aug 03. <span style="display: inline-block; width: 10px;"></span>
-    <details style="display: inline-block; font-size: 80%;">
-    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
-    <br>
-    <div class="justified-text">
-    Order picking is a crucial operation in warehouses that significantly impacts overall efficiency and profitability. This study addresses the dynamic order picking problem, a significant concern in modern warehouse management where real-time adaptation to fluctuating order arrivals and efficient picker routing are crucial. Traditional methods, often assuming fixed order sets, fall short in this dynamic environment. We utilize Deep Reinforcement Learning (DRL) as a solution methodology to handle the inherent uncertainties in customer demands. We focus on a single-block warehouse with an autonomous picking device, eliminating human behavioral factors. Our DRL framework enables the dynamic optimization of picker routes, significantly reducing order throughput times, especially under high order arrival rates. Experiments demonstrate a substantial decrease in order throughput time and unfulfilled orders compared to benchmark algorithms. We further investigate integrating a hyperparameter in the reward function that allows for flexible balancing between distance traveled and order completion time. Finally, we demonstrate the robustness of our DRL model for out-of-sample test instances.
-    </div>
-    </details>
-    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
-    <a href="https://arxiv.org/abs/2408.01656" style="text-decoration: none; color: inherit;">
-    arXiv:2408.01656
-    </a> 
-    </summary>
-</li>
-
 
 <li> [Major Revision, Production and Operations Management] Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Optimization Online preprint 27199. 2024 July 31.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
@@ -62,7 +47,28 @@ author_profile: true
 
 <ol reversed>
 
-<li> Sobhanan A, Park J, Park J, Kwon C. "Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems". Transportation Science, to appear. <span style="display: inline-block; width: 10px;"></span>
+<li> Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". Computers & Operations Research, accepted. <span style="display: inline-block; width: 10px;"></span>
+    <details style="display: inline-block; font-size: 80%;">
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
+    <br>
+    <div class="justified-text">
+    Order picking is a pivotal operation in warehouses that directly impacts overall efficiency and profitability. This study addresses the dynamic order picking problem, a significant concern in modern warehouse management, where real-time adaptation to fluctuating order arrivals and efficient picker routing are crucial. Traditional methods, which often depend on static optimization algorithms designed around fixed order sets for the picker routing, fall short in addressing the challenges of this dynamic environment. To overcome these challenges, we propose a Deep Reinforcement Learning (DRL) framework tailored for single-block warehouses equipped with an autonomous picking device. By dynamically optimizing picker routes, our approach significantly reduces order throughput times and unfulfilled orders, particularly under high order arrival rates. We benchmark our DRL model against established algorithms, utilizing instances generated based on standard practices in the order picking literature. Experimental results demonstrate the superiority of our DRL model over benchmark algorithms. For example, at a high order arrival rate of 0.09 (i.e., 9 orders per 100 units of time on average), our approach achieves an order fulfillment rate of approximately 98%, compared to the 82% fulfillment rate observed with benchmarking algorithms. We further investigate the integration of a hyperparameter in the reward function that allows for flexible balancing between distance traveled and order completion time. Finally, we demonstrate the robustness of our DRL model on out-of-sample test instances.
+    </div>
+    </details>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://arxiv.org/abs/2408.01656" style="text-decoration: none; color: inherit;">
+    arXiv:2408.01656
+    </a> 
+    </summary>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://github.com/Sasanm88/DRL-Order-Picking" style="text-decoration: none; color: inherit;">
+    code
+    </a> 
+    </summary>
+</li>
+
+
+<li> Sobhanan A, Park J, Park J, Kwon C. (2025). "Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems". Transportation Science, 59(2), 322-339. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -88,7 +94,7 @@ author_profile: true
 </li>
 
 
-<li> Golui S, Pal C, Manikandan R, Sobhanan A. "Optimal control of a dynamic production-inventory system with various cost criteria". Annals of Operations Research, 337(1), 75-103. <span style="display: inline-block; width: 10px;"></span>
+<li> Golui S, Pal C, Manikandan R, Sobhanan A. (2024). "Optimal control of a dynamic production-inventory system with various cost criteria". Annals of Operations Research, 337(1), 75-103. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
