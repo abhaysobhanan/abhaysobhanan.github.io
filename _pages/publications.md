@@ -47,7 +47,7 @@ author_profile: true
 
 <ol reversed>
 
-<li> Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". Computers & Operations Research, accepted. <span style="display: inline-block; width: 10px;"></span>
+<li> Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. (2025). "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". Computers & Operations Research, 107112. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -63,6 +63,11 @@ author_profile: true
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
     <a href="https://github.com/Sasanm88/DRL-Order-Picking" style="text-decoration: none; color: inherit;">
     code
+    </a> 
+    </summary>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://doi.org/10.1016/j.cor.2025.107112" style="text-decoration: none; color: inherit;">
+    https://doi.org/10.1016/j.cor.2025.107112
     </a> 
     </summary>
 </li>
@@ -129,6 +134,12 @@ author_profile: true
     We further develop a branch-and-price algorithm to solve this problem, where the pricing subproblem is solved using dynamic programming recursions with dominance rules. 
     Our results demonstrate the computational superiority of this method compared to a commercial optimization solver and its potential for expediting aid distribution during an emergency.
     </div>
+    </details>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915810" style="text-decoration: none; color: inherit;">
+    preprint
+    </a> 
+    </summary>
 </li>
 
 </ol>
