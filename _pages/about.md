@@ -14,6 +14,8 @@ I am a PhD Candidate in Industrial Engineering at the <a href="https://www.usf.
 <br>
 
 Before joining USF, I worked as a Research Associate at the Indian Institute of Management Ahmedabad, India. I earned a BS‑MS dual degree in Mathematics from the National Institute of Technology Agartala in 2019, where my master’s thesis explored Type‑2 Fuzzy Multi‑Criteria Decision Making.
+<br>
+<br>
 </div>
 
 Research Directions
@@ -26,7 +28,7 @@ I am interested in Operations Research, Discrete Mathematics, Deep Learning, and
 * Exact and Heuristic Optimization Methods  
 * Deep Learning Applications  
 * Warehouse Order‑Picking Problem  
-* Advancements in Multi‑objective Optimization  
+* Advancements in Multi‑Objective Optimization  
 
 
 
