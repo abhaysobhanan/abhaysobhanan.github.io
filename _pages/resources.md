@@ -48,3 +48,7 @@ Some useful resources for Operations Research enthusiasts and PhD students.
 - [Scriptoria](https://www.scriptoria.org/en/){:target="_blank"} is a blog with a collection of articles designed to guide PhD students in writing their scientific articles.
 
 - [Generate font pairings](https://fontjoy.com) that works well for your presentation slides. 
+
+- [Unsplash](https://unsplash.com): a huge library of high-resolution, copyright-free images for personal and commercial use.
+
+- [napkin.ai](https://napkin.ai): AI-powered assistance for refining presentation slides.
