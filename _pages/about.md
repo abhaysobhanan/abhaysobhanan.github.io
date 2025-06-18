@@ -48,8 +48,7 @@ redirect_from:
 
 ## Research Directions
 
-I am interested in operations research, discrete mathematics, deep learning,
-and queueing theory. My current work focuses on:
+I am interested in applying operations research and machine learning to real-world optimization problems. My current research directions include:
 
 - Optimization of transportation networks  
 - Exact and heuristic optimization methods  
@@ -62,7 +61,7 @@ and queueing theory. My current work focuses on:
     <em>
       I welcome opportunities for academic and research engagements, including
       invited talks, seminars, collaborations, and other scholarly activities.
-      If you’d like to explore potential opportunities, please get in touch.
+      If you are interested in discussing potential opportunities, please feel free to reach out.
     </em>
   </p>
 </section>
