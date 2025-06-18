@@ -2,40 +2,102 @@
 permalink: /
 title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<div style="text-align: justify;">
-I am a PhD Candidate in Industrial Engineering at the <a href="https://www.usf.edu">University of South Florida</a>, pursuing doctoral research under the guidance of Dr. <a href="http://www.eng.usf.edu/~hcharkhgard/">Hadi Gard</a> and Dr. <a href="https://www.chkwon.net">Changhyun Kwon</a>. My doctoral research focuses on optimizing large‑scale vehicle‑routing problems by developing new methodologies and tackling real‑world issues such as equitable workload allocation.
+<section class="about-intro">
+  <p>
+    I am an incoming Assistant Professor in the Decision Sciences area at the
+    <a href="https://www.iimb.ac.in">Indian Institute of Management Bangalore</a>.
+    I recently defended my PhD dissertation in Industrial Engineering at the
+    <a href="https://www.usf.edu">University of South Florida</a> in June 2025,
+    where I conducted my doctoral research under the guidance of
+    Dr. <a href="http://www.eng.usf.edu/~hcharkhgard/">Hadi Gard</a> and
+    Dr. <a href="https://www.chkwon.net">Changhyun Kwon</a>.
+    My dissertation research focused on optimizing large‑scale vehicle routing problems by developing new methodologies and tackling real‑world issues such as equitable workload allocation. 
+  </p>
 
-<br>
-<br>
+  <p>
+    Prior to my PhD, I served as a Research Associate at the Indian Institute of
+    Management Ahmedabad. I hold a BS–MS dual degree in Mathematics from the
+    National Institute of Technology Agartala (2019), where my master’s thesis
+    explored Type-2 Fuzzy Multi-Criteria Decision Making.
+  </p>
+</section>
 
-Before joining USF, I worked as a Research Associate at the Indian Institute of Management Ahmedabad, India. I earned a BS‑MS dual degree in Mathematics from the National Institute of Technology Agartala in 2019, where my master’s thesis explored Type‑2 Fuzzy Multi‑Criteria Decision Making.
-<br>
-<br>
-</div>
+<section class="callout">
+  <p>
+    I am looking for highly motivated candidates with a strong background in Integer Programming or Deep Learning to join my team.
+  </p>
+  <ul style="margin: 8px 0 0 20px; padding: 0;">
+    <li>
+      <strong>Current PhD students at IIM Bangalore:</strong>  
+      Please <a href="mailto:abhay.sobhanan@gmail.com">email me</a> to discuss potential collaboration.
+    </li>
+    <li style="margin-top: 4px;">
+      <strong>Prospective Research Associates:</strong>  
+      Send your CV, unofficial transcripts, and a writing sample to  
+      <a href="mailto:abhay.sobhanan@gmail.com?subject=Application%20for%20Research%20Associate%20Position">
+      abhay.sobhanan@gmail.com</a>  
+      with the subject “Application for Research Associate Position”.
+    </li>
+  </ul>
+</section>
 
-Research Directions
-======
-<div style="text-align: justify;">
-I am interested in Operations Research, Discrete Mathematics, Deep Learning, and Queueing Theory. Right now, my work focuses on combinatorial optimization problems, including:
-</div>
+## Research Directions
 
-* Optimization of Transportation Networks  
-* Exact and Heuristic Optimization Methods  
-* Deep Learning Applications  
-* Warehouse Order‑Picking Problem  
-* Advancements in Multi‑Objective Optimization  
+I am interested in operations research, discrete mathematics, deep learning,
+and queueing theory. My current work focuses on:
 
+- Optimization of transportation networks  
+- Exact and heuristic optimization methods  
+- Deep learning applications  
+- Warehouse order-picking problems  
+- Advancements in multi-objective optimization  
 
+<section class="closing-note">
+  <p>
+    <em>
+      I welcome opportunities for academic and research engagements, including
+      invited talks, seminars, collaborations, and other scholarly activities.
+      If you’d like to explore potential opportunities, please get in touch.
+    </em>
+  </p>
+</section>
 
----
-<!-- Abhay Sobhanan's detailed CV is available [[here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}]. -->
+<style>
+  /* About intro */
+  .about-intro p {
+    text-align: justify;
+    margin-bottom: 1em;
+  }
 
-<div style="text-align: justify; font-style: italic;">
-I welcome opportunities for academic and research engagements, including invited talks, seminars, collaborations, and other scholarly activities. If you are interested in discussing potential opportunities, please feel free to reach out.
-</div>
+  /* Candidate callout box */
+  .callout {
+    border: 2px solid #007ACC;
+    background-color: #E6F4FF;
+    padding: 1.5em;
+    margin: 2em 0;
+    border-radius: 4px;
+  }
+  .callout h3 {
+    margin-top: 0;
+    color: #005A9E;
+    font-size: 1.25em;
+  }
+  .callout ul {
+    margin: 0.5em 0 0 1.5em;
+  }
+  .callout li {
+    margin-bottom: 0.5em;
+  }
 
+  /* Closing note */
+  .closing-note p {
+    text-align: justify;
+    font-style: italic;
+    margin-top: 2em;
+  }
+</style>

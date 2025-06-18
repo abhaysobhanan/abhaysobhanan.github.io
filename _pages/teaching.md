@@ -17,7 +17,7 @@ EIN 4142/6145 (Summer 2021, Summer 2022, Summer 2023)
 EIN 4451/6458 (Summer 2023)  
 <span style="font-size: smaller;"> *Course Instructor*: Dr. Walter Silva </span>
 1. **Production Control Systems**  
-EIN 4333/6336 (Spring 2022)  
+EIN 4333/6336 (Spring 2022, Spring 2025)  
 <span style="font-size: smaller;"> *Course Instructor*: Dr. Michael Weng </span>
 1. **Probability and Statistics for Engineers**  
 EGN 3443 (Spring 2021)  
