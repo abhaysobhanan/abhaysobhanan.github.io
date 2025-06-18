@@ -8,6 +8,7 @@ author_profile: true
 # Conference Presentations
 
 <ol reversed>
+
 <li> INFORMS Annual Conference, Seattle, U.S.A. during October 20-23, 2024.
   
   Title: <em>Towards Equitable Workload Distribution in Last-Mile Delivery for the Gig Economy: The Dispatch Zone-Wave Problem</em> 
@@ -44,9 +45,14 @@ author_profile: true
 </li>
 </ol>
 
-# Selected Talks
+# Invited Talks
 
 <ol reversed>
+<li> MIT Center for Transportation &amp; Logistics, Cambridge, Massachusetts, U.S.A. on April 08, 2025.
+  
+  Title: <em>Towards Equitable Workload Distribution in Last-Mile Delivery for the Gig Economy </em> 
+</li>
+
 <li> Data Science Bootcamp 2024 by INFORMS Student Chapter at University of South Florida on April 19, 2024.
   
   Topic: <em>Introduction to Machine Learning Models</em> 

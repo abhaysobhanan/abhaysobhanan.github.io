@@ -11,17 +11,16 @@ redirect_from:
   <p>
     I am an incoming Assistant Professor in the Decision Sciences area at the
     <a href="https://www.iimb.ac.in">Indian Institute of Management Bangalore</a>.
-    I recently defended my PhD dissertation in Industrial Engineering at the
-    <a href="https://www.usf.edu">University of South Florida</a> in June 2025,
+    I recently defended my PhD dissertation in Industrial Engineering at the University of South Florida in June 2025,
     where I conducted my doctoral research under the guidance of
     Dr. <a href="http://www.eng.usf.edu/~hcharkhgard/">Hadi Gard</a> and
     Dr. <a href="https://www.chkwon.net">Changhyun Kwon</a>.
-    My dissertation research focused on optimizing large‑scale vehicle routing problems by developing new methodologies and tackling real‑world issues such as equitable workload allocation. 
+    My dissertation research focused on solving large‑scale vehicle routing problems by developing new methodologies and tackling real‑world issues such as equitable workload allocation. 
   </p>
 
   <p>
     Prior to my PhD, I served as a Research Associate at the Indian Institute of
-    Management Ahmedabad. I hold a BS–MS dual degree in Mathematics from the
+    Management Ahmedabad. I hold a BS-MS dual degree in Mathematics from the
     National Institute of Technology Agartala (2019), where my master’s thesis
     explored Type-2 Fuzzy Multi-Criteria Decision Making.
   </p>
