@@ -53,8 +53,14 @@ author_profile: true
   Title: <em>Towards Equitable Workload Distribution in Last-Mile Delivery for the Gig Economy </em> 
 </li>
 
-<li> Data Science Bootcamp 2024 by INFORMS Student Chapter at University of South Florida on April 19, 2024.
+<li> Data Science Bootcamp 2024 by INFORMS Student Chapter at the University of South Florida on April 19, 2024.
   
   Topic: <em>Introduction to Machine Learning Models</em> 
+</li>
+
+<li> Presentation for INFORMS Student Chapter at the University of South Florida during Fall 2023.
+
+Topic: <em>Attention Networks for Combinatorial Optimization</em>
+    
 </li>
 </ol>
