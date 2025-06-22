@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-A detailed CV is available [here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}.
+<!-- A detailed CV is available [here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}. -->
 
 Education
 ======
-* (Ongoing) Ph.D in Industrial Engineering, University of South Florida, U.S.A., 2025.
+* Ph.D in Industrial Engineering, University of South Florida, U.S.A., July 2025.
 * BS-MS in Mathematics, National Institute of Technology Agartala, India, May 2019.
   
   Visiting Student at:
