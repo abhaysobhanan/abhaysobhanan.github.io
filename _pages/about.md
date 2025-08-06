@@ -9,9 +9,9 @@ redirect_from:
 
 <section class="about-intro">
   <p>
-    I am an incoming Assistant Professor in the Decision Sciences area at the
+    I am an Assistant Professor in the Decision Sciences area at the
     <a href="https://www.iimb.ac.in">Indian Institute of Management Bangalore</a>.
-    I recently defended my PhD dissertation in Industrial Engineering at the University of South Florida in June 2025,
+    I completed my PhD in Industrial Engineering at the University of South Florida in July 2025,
     where I conducted my doctoral research under the guidance of
     Dr. <a href="http://www.eng.usf.edu/~hcharkhgard/">Hadi Gard</a> and
     Dr. <a href="https://www.chkwon.net">Changhyun Kwon</a>.
@@ -28,7 +28,7 @@ redirect_from:
 
 <section class="callout">
   <p>
-    I am looking for highly motivated candidates with a strong background in Integer Programming or Deep Learning to join my team.
+    I am looking for highly motivated candidates with a background in Integer Programming or Deep Learning to join my team.
   </p>
   <ul style="margin: 8px 0 0 20px; padding: 0;">
     <li>
