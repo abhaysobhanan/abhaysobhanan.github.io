@@ -33,13 +33,13 @@ redirect_from:
   <ul style="margin: 8px 0 0 20px; padding: 0;">
     <li>
       <strong>Current PhD students at IIM Bangalore:</strong>  
-      Please <a href="mailto:abhay.sobhanan@gmail.com">email me</a> to discuss potential collaboration.
+      Please <a href="mailto:abhay.sobhanan@iimb.ac.in">email me</a> to discuss potential collaboration.
     </li>
     <li style="margin-top: 4px;">
       <strong>Prospective Research Associates:</strong>  
       Send your CV, unofficial transcripts, and a writing sample to  
-      <a href="mailto:abhay.sobhanan@gmail.com?subject=Application%20for%20Research%20Associate%20Position">
-      abhay.sobhanan@gmail.com</a>  
+      <a href="mailto:abhay.sobhanan@iimb.ac.in?subject=Application%20for%20Research%20Associate%20Position">
+      abhay.sobhanan@iimb.ac.in</a>  
       with the subject “Application for Research Associate Position”.
     </li>
   </ul>
@@ -99,3 +99,25 @@ I am interested in applying operations research and machine learning to real-wor
     margin-top: 2em;
   }
 </style>
+
+
+
+<section class="contact-info">
+  <h3>Contact Information</h3>
+  <p>
+    <strong>Mailing Address:</strong><br>
+    Dr. Abhay Sobhanan<br>
+    Office: B-204,<br>
+    Indian Institute of Management Bangalore<br>
+    Bannerghatta Road<br>
+    Bengaluru, KA 560076<br>
+    India
+  </p>
+  <p>
+    <strong>Office Phone:</strong> +91 (80) 2699 3200
+  </p>
+  <p>
+    <strong>Website:</strong> <a href="https://abhaysobhanan.github.io">https://abhaysobhanan.github.io</a>
+  </p>
+</section>
+
