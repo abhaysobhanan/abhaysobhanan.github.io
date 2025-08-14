@@ -10,6 +10,20 @@ redirect_from:
 <!-- {% include base_path %} -->
 <!-- A detailed CV is available [here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}. -->
 
+Professional Experience
+======
+
+* IIMB Young Faculty Research Chair, Indian Institute of Management Bangalore, India (August 2025 - Present).
+
+* Assistant Professor, Decision Sciences Area, Indian Institute of Management (IIM) Bangalore, India (August 2025 - Present).
+
+* Graduate Research/Teaching Assistant, Department of Industrial and Management Systems Engineering, University of South Florida during Spring 2021 - Spring 2025. 
+
+* Research Associate, Area of Production & Quantitative Methods, Indian Institute of Management Ahmedabad, India during July 2019 - June 2020.
+
+* Mitacs Globalink Research Intern, Department of Mathematics & Statistics, University of Regina during May 2016 - August 2016. 
+
+
 Education
 ======
 * Ph.D in Industrial Engineering, University of South Florida, U.S.A., July 2025.
@@ -17,16 +31,7 @@ Education
   
   Visiting Student at:
   - Department of Mathematics, Central University of Kerala, India during Winter 2016.
-  - C.R.Rao Advanced Institute of Mathematics, Statistics and Computer Science, Hyderabad, India during Summer 2016. 
-
-Research Experience
-======
-
-* Research Assistant, University of South Florida during Spring 2023, and Spring 2024 - Present.
-
-* Research Associate, Area of Production & Quantitative Methods, Indian Institute of Management Ahmedabad, India during July 2019 - June 2020.
-
-* Mitacs Globalink Research Intern, Department of Mathematics & Statistics, University of Regina during May 2016 - August 2016. 
+  - C.R.Rao Advanced Institute of Mathematics, Statistics and Computer Science, Hyderabad, India during Summer 2016.
 
 
 Awards and Honors
