@@ -26,7 +26,22 @@ author_profile: true
 # Articles under Review
 <ol reversed>
 
-<li> [Major Revision, Production and Operations Management] Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Optimization Online preprint 27199. 2024 July 31.<span style="display: inline-block; width: 10px;"></span>
+<li> Sobhanan A, Charkhgard H, Kwon C. "Arc Routing Problems with Multiple Trucks and Drones: A Hybrid Genetic Algorithm". arXiv preprint arXiv:2508.18105. 2025 August 25.<span style="display: inline-block; width: 10px;"></span>
+    <details style="display: inline-block; font-size: 80%;">
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
+    <br>
+    <div class="justified-text">
+    Arc-routing problems underpin numerous critical field operations, including power-line inspection, urban police patrolling, and traffic monitoring. In this domain, the Rural Postman Problem (RPP) is a fundamental variant in which a prescribed subset of edges or arcs in a network must be traversed. This paper investigates a generalized form of the RPP, called RPP-mTD, which involves a fleet of multiple trucks, each carrying multiple drones. The trucks act as mobile depots traversing a road network, from which drones are launched to execute simultaneous service, with the objective of minimizing the overall makespan. Given the combinatorial complexity of RPP-mTD, we propose a Hybrid Genetic Algorithm (HGA) that combines population-based exploration with targeted neighborhood searches. Solutions are encoded using a two-layer chromosome that represents: (i) an ordered, directed sequence of required edges, and (ii) their assignment to vehicles. A tailored segment-preserving crossover operator is introduced, along with multiple local search techniques to intensify the optimization. We benchmark the proposed HGA against established single truck-and-drone instances, demonstrating competitive performance. Additionally, we conduct extensive evaluations on new, larger-scale instances to demonstrate scalability. Our findings highlight the operational benefits of closely integrated truck-drone fleets, affirming the HGA's practical effectiveness as a decision-support tool in advanced mixed-fleet logistics.
+    </div>
+    </details>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://arxiv.org/abs/2508.18105" style="text-decoration: none; color: inherit;">
+    arXiv:2508.18105
+    </a> 
+    </summary>
+</li>
+
+<li> Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Optimization Online preprint 27199. 2024 July 31.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
