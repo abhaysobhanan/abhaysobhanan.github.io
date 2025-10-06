@@ -47,11 +47,10 @@ redirect_from:
 
 <section class="callout">
   <p>
-    I am always looking for motivated students with a background in mathematical optimization or machine learning to join my research group. If you are interested in working with me, please <a href="mailto:abhay.sobhanan@iimb.ac.in">send me an email</a> with your CV.
+    I am always looking for motivated students with a background in mathematical optimization or machine learning to join my research group. If you are interested in working with me, please <a href="mailto:abhay.sobhanan@iimb.ac.in">send me an email</a> with your CV and a brief description of your research interests.
   </p>
   <p>
-    <strong>Please note:</strong> I am not offering internships or short-term project opportunities at this time.
-  </p>
+    <strong> Please note: </strong> I am not offering internships or short-term projects at this time. </p>
 </section>
 
 ## Research Directions
