@@ -26,7 +26,7 @@ redirect_from:
   </p>
 </section>
 
-<section class="callout">
+<!-- <section class="callout">
   <p>
     I am looking for highly motivated candidates with a background in Integer Programming or Deep Learning to join my team.
   </p>
@@ -43,6 +43,15 @@ redirect_from:
       with the subject “Application for Research Associate Position”.
     </li>
   </ul>
+</section> -->
+
+<section class="callout">
+  <p>
+    I am always looking for motivated students with a background in mathematical optimization or machine learning to join my research group. If you are interested in working with me, please <a href="mailto:abhay.sobhanan@iimb.ac.in">send me an email</a> with your CV.
+  </p>
+  <p>
+    <strong>Please note:</strong> I am not offering internships or short-term project opportunities at this time.
+  </p>
 </section>
 
 ## Research Directions
