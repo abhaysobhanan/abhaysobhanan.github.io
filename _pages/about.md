@@ -112,7 +112,7 @@ My research encompasses methodological advancements and practical applications i
   <p>
     <strong>Mailing Address:</strong><br>
     <br>
-    Dr. Abhay Sobhanan<br>
+    Prof. Abhay Sobhanan<br>
     Faculty Block B-204<br>
     Indian Institute of Management Bangalore<br>
     Bannerghatta Road<br>
