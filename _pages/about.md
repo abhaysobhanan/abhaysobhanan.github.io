@@ -9,59 +9,18 @@ redirect_from:
 
 <section class="about-intro">
   <p>
-    I am an Assistant Professor in the Decision Sciences area at the
-    <a href="https://www.iimb.ac.in">Indian Institute of Management Bangalore</a>.
-    I completed my PhD in Industrial Engineering at the University of South Florida in July 2025,
-    where I conducted my doctoral research under the guidance of
-    Dr. <a href="http://www.eng.usf.edu/~hcharkhgard/">Hadi Gard</a> and
-    Dr. <a href="https://www.chkwon.net">Changhyun Kwon</a>.
-    My dissertation research focused on solving large‑scale vehicle routing problems by developing new methodologies and tackling real‑world issues such as equitable workload allocation. 
+    I am an Assistant Professor in the Decision Sciences area and a Young Faculty Research Chair at the <a href="https://www.iimb.ac.in">Indian Institute of Management Bangalore</a>. My research focuses on developing operations research and machine learning techniques to address complex optimization problems in transportation, warehousing, and supply chain management.
   </p>
 
+
   <p>
+    I completed my PhD in Industrial Engineering at the University of South Florida in July 2025, where I conducted my doctoral research under the guidance of Dr. <a href="http://www.eng.usf.edu/~hcharkhgard/">Hadi Gard</a> and Dr. <a href="https://www.chkwon.net">Changhyun Kwon</a>.
+    My dissertation research centered on solving large‑scale vehicle routing problems by developing new methodologies and tackling real‑world issues such as equitable workload allocation. 
     Prior to my PhD, I served as a Research Associate at the Indian Institute of
     Management Ahmedabad. I hold a BS-MS dual degree in Mathematics from the
-    National Institute of Technology Agartala (2019), where my master’s thesis
-    explored Type-2 Fuzzy Multi-Criteria Decision Making.
+    National Institute of Technology Agartala (2019).
   </p>
 </section>
-
-<!-- <section class="callout">
-  <p>
-    I am looking for highly motivated candidates with a background in Integer Programming or Deep Learning to join my team.
-  </p>
-  <ul style="margin: 8px 0 0 20px; padding: 0;">
-    <li>
-      <strong>Current PhD students at IIM Bangalore:</strong>  
-      Please <a href="mailto:abhay.sobhanan@iimb.ac.in">email me</a> to discuss potential collaboration.
-    </li>
-    <li style="margin-top: 4px;">
-      <strong>Prospective Research Associates:</strong>  
-      Send your CV, unofficial transcripts, and a writing sample to  
-      <a href="mailto:abhay.sobhanan@iimb.ac.in?subject=Application%20for%20Research%20Associate%20Position">
-      abhay.sobhanan@iimb.ac.in</a>  
-      with the subject “Application for Research Associate Position”.
-    </li>
-  </ul>
-</section> -->
-
-<section class="callout">
-  <p>
-    I am always looking for motivated students with a background in mathematical optimization or machine learning to join my research group. If you are interested in working with me, please <a href="mailto:abhay.sobhanan@iimb.ac.in">send me an email</a> with your CV and a brief description of your research interests.
-  </p>
-  <p>
-    <strong> Please note: </strong> I am not offering internships or short-term projects at this time. </p>
-</section>
-
-## Research Directions
-
-I am interested in applying operations research and machine learning to real-world optimization problems. My current research directions include:
-
-- Optimization of transportation networks  
-- Exact and heuristic optimization methods  
-- Deep learning applications  
-- Warehouse order-picking problems  
-- Advancements in multi-objective optimization  
 
 <section class="closing-note">
   <p>
@@ -108,6 +67,44 @@ I am interested in applying operations research and machine learning to real-wor
   }
 </style>
 
+<!-- <section class="callout">
+  <p>
+    I am looking for highly motivated candidates with a background in Integer Programming or Deep Learning to join my team.
+  </p>
+  <ul style="margin: 8px 0 0 20px; padding: 0;">
+    <li>
+      <strong>Current PhD students at IIM Bangalore:</strong>  
+      Please <a href="mailto:abhay.sobhanan@iimb.ac.in">email me</a> to discuss potential collaboration.
+    </li>
+    <li style="margin-top: 4px;">
+      <strong>Prospective Research Associates:</strong>  
+      Send your CV, unofficial transcripts, and a writing sample to  
+      <a href="mailto:abhay.sobhanan@iimb.ac.in?subject=Application%20for%20Research%20Associate%20Position">
+      abhay.sobhanan@iimb.ac.in</a>  
+      with the subject “Application for Research Associate Position”.
+    </li>
+  </ul>
+</section> -->
+
+
+## Research Directions
+
+My research encompasses methodological advancements and practical applications in operations research and machine learning, with a focus on the following areas:
+
+- Optimization of transportation networks  
+- Exact and heuristic optimization methods  
+- Deep learning and deep reinforcement learning applications 
+- Warehouse order-picking problems  
+- Advancements in multi-objective optimization  
+
+
+<section class="callout">
+  <p>
+    I am always looking for motivated students with a background in mathematical optimization or machine learning to join my research group. If you are interested in working with me, <a href="mailto:abhay.sobhanan@iimb.ac.in">send me an email</a> with your CV and a brief description of your research interests.
+  </p>
+  <p>
+    <strong> Please note: </strong> I am not offering internships or short-term projects at this time. </p>
+</section>
 
 
 <section class="contact-info">
