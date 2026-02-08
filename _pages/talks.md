@@ -5,6 +5,24 @@ permalink: /talks/
 author_profile: true
 ---
 
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 40px;">
+  
+  <div style="flex: 1 1 100%; text-align: center;">
+    <img src="../research_talks_wordcloud.png" alt="Research Themes Word Cloud" style="width: 100%; max-width: 800px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="font-style: italic; color: #666; font-size: 0.9em;">Key Research Themes</p>
+  </div>
+
+  <div style="flex: 1 1 100%; text-align: center;">
+    <img src="../timeline_journey_with_years.png" alt="Academic Timeline Journey" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="font-style: italic; color: #666; font-size: 0.9em;">Timeline & Venue of Talks</p>
+  </div>
+
+</div>
+
+---
+<!-- 
+
 # Conference Presentations
 
 <ol reversed>
@@ -63,4 +81,4 @@ author_profile: true
 Topic: <em>Attention Networks for Combinatorial Optimization</em>
     
 </li>
-</ol>
+</ol> -->

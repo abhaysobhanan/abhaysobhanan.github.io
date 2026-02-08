@@ -41,7 +41,13 @@ author_profile: true
     </summary>
 </li>
 
-<li> Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Optimization Online preprint 27199. 2024 July 31.<span style="display: inline-block; width: 10px;"></span>
+</ol>
+
+# Journal Articles
+
+<ol reversed>
+
+<li> Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Production and Operations Management, forthcoming.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -55,12 +61,6 @@ author_profile: true
     </a> 
     </summary>
 </li>
-
-</ol>
-
-# Journal Articles
-
-<ol reversed>
 
 <li> Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. (2025). "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". Computers & Operations Research, 107112. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
