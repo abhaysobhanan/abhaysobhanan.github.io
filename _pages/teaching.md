@@ -5,6 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Instructor, IIM Bangalore
+
+1. **Integer Programming and Combinatorial Optimization**  
+IPCO - Decision Sciences PhD Core Course, Term 3 (2025-26)  
+
+2. **Decision Sciences - II (Forthcoming)**  
+Decision Sciences Core Course for MBA Participants
+
 ## Teaching Assistant, University of South Florida
 
 1. **Deterministic Operations Research / Foundations of Optimization**  
