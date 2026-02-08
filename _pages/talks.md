@@ -13,6 +13,8 @@ author_profile: true
     <p style="font-style: italic; color: #666; font-size: 0.9em;">Key Research Themes</p>
   </div>
 
+  ---
+
   <div style="flex: 1 1 100%; text-align: center;">
     <img src="../timeline_journey_with_years.png" alt="Academic Timeline Journey" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <p style="font-style: italic; color: #666; font-size: 0.9em;">Timeline & Venue of Talks</p>
@@ -20,7 +22,7 @@ author_profile: true
 
 </div>
 
----
+
 <!-- 
 
 # Conference Presentations
