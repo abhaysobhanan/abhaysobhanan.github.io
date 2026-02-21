@@ -22,7 +22,7 @@ redirect_from:
   </p>
 </section>
 
-<section class="closing-note">
+<!-- <section class="closing-note">
   <p>
     <em>
       I welcome opportunities for academic and research engagements, including
@@ -30,7 +30,7 @@ redirect_from:
       If you are interested in discussing potential opportunities, please feel free to reach out.
     </em>
   </p>
-</section>
+</section> -->
 
 <style>
   /* About intro */
@@ -92,18 +92,18 @@ redirect_from:
 My research encompasses methodological advancements and practical applications in operations research and machine learning, with a focus on the following areas:
 
 - Optimization of transportation networks  
+- Optimization of warehouse operations 
 - Exact and heuristic optimization methods  
 - Deep learning and deep reinforcement learning applications 
-- Warehouse order-picking problems  
 - Advancements in multi-objective optimization  
 
 
 <section class="callout">
   <p>
-    I am always looking for motivated students with a background in mathematical optimization or machine learning to join my research group. If you are interested in working with me, <a href="mailto:abhay.sobhanan@iimb.ac.in">send me an email</a> with your CV and a brief description of your research interests.
+    I am always looking for motivated students with a strong background in mathematical optimization or machine learning to join my research group. If you are interested in working with me, <a href="mailto:abhay.sobhanan@iimb.ac.in">send me an email</a> with your CV and a brief description of your research interests.
   </p>
-  <p>
-    <strong> Please note: </strong> I am not offering internships or short-term projects at this time. </p>
+  <!-- <p>
+    <strong> Please note: </strong> I am not offering internships or short-term projects at this time. </p> -->
 </section>
 
 
