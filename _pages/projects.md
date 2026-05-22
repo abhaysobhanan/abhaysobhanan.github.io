@@ -9,17 +9,17 @@ Here is a list of my ongoing and completed research projects.
 
 ## Ongoing Funded Projects
 
-**Neural-Guided Solvers for Large-Scale Combinatorial Optimization Problems** <ul style="list-style-type: none; padding-left: 0;">
-  <li><i class="fas fa-user-tie" style="color:#555;"></i> &nbsp; <b>Role:</b> Principal Investigator</li>
-  <li><i class="fas fa-landmark" style="color:#555;"></i> &nbsp; <b>Funding:</b> ANRF Prime Minister Early Career Research Grant</li>
-  <li><i class="far fa-calendar-alt" style="color:#555;"></i> &nbsp; <b>Year:</b> 2026</li>
-</ul>
+**Neural-Guided Solvers for Large-Scale Combinatorial Optimization Problems**<br>
+<i class="fas fa-user-tie" style="color:#555;"></i> &nbsp; **Role:** Principal Investigator<br>
+<i class="fas fa-landmark" style="color:#555;"></i> &nbsp; **Funding:** ANRF Prime Minister Early Career Research Grant<br>
+<i class="far fa-calendar-alt" style="color:#555;"></i> &nbsp; **Year:** 2026
 
-**Dynamic Charging for Order-Picking Devices in Automated Warehouses** <ul style="list-style-type: none; padding-left: 0;">
-  <li><i class="fas fa-user-tie" style="color:#555;"></i> &nbsp; <b>Role:</b> Principal Investigator</li>
-  <li><i class="fas fa-landmark" style="color:#555;"></i> &nbsp; <b>Funding:</b> IIMB Research Seed Grant</li>
-  <li><i class="far fa-calendar-alt" style="color:#555;"></i> &nbsp; <b>Year:</b> 2025</li>
-</ul>
+<br>
+
+**Dynamic Charging for Order-Picking Devices in Automated Warehouses**<br>
+<i class="fas fa-user-tie" style="color:#555;"></i> &nbsp; **Role:** Principal Investigator<br>
+<i class="fas fa-landmark" style="color:#555;"></i> &nbsp; **Funding:** IIMB Research Seed Grant<br>
+<i class="far fa-calendar-alt" style="color:#555;"></i> &nbsp; **Year:** 2025
 
 ---
 
