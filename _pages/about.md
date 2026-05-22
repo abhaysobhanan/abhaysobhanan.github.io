@@ -16,11 +16,21 @@ redirect_from:
   <p>
     I completed my PhD in Industrial Engineering at the University of South Florida in July 2025, where I conducted my doctoral research under the guidance of Dr. <a href="http://www.eng.usf.edu/~hcharkhgard/">Hadi Gard</a> and Dr. <a href="https://www.chkwon.net">Changhyun Kwon</a>.
     My dissertation research centered on solving large‑scale vehicle routing problems by developing new methodologies and tackling real‑world issues such as equitable workload allocation. 
-    Prior to my PhD, I served as a Research Associate at the Indian Institute of
-    Management Ahmedabad. I hold a BS-MS dual degree in Mathematics from the
+    <!-- Prior to my PhD, I served as a Research Associate at the Indian Institute of Management Ahmedabad.  -->
+    I hold a BS-MS dual degree in Mathematics from the
     National Institute of Technology Agartala (2019).
   </p>
 </section>
+
+---
+
+### 📢 Recent News & Updates
+* **[Apr 2026]** Awarded ANRF Prime Minster Early Career Research Grant.
+* **[Jan 2026]** Paper on workload equity in crowdshipping accepted for publication in Production and Operations Management journal.
+* **[Aug 2025]** Joined the Indian Institute of Management Bangalore as an Assistant Professor!
+* **[Jun 2025]** Successfully defended my PhD in Industrial Engineering at the University of South Florida.
+
+---
 
 <!-- <section class="closing-note">
   <p>
@@ -67,63 +77,102 @@ redirect_from:
   }
 </style>
 
-<!-- <section class="callout">
-  <p>
-    I am looking for highly motivated candidates with a background in Integer Programming or Deep Learning to join my team.
-  </p>
-  <ul style="margin: 8px 0 0 20px; padding: 0;">
-    <li>
-      <strong>Current PhD students at IIM Bangalore:</strong>  
-      Please <a href="mailto:abhay.sobhanan@iimb.ac.in">email me</a> to discuss potential collaboration.
-    </li>
-    <li style="margin-top: 4px;">
-      <strong>Prospective Research Associates:</strong>  
-      Send your CV, unofficial transcripts, and a writing sample to  
-      <a href="mailto:abhay.sobhanan@iimb.ac.in?subject=Application%20for%20Research%20Associate%20Position">
-      abhay.sobhanan@iimb.ac.in</a>  
-      with the subject “Application for Research Associate Position”.
-    </li>
-  </ul>
-</section> -->
-
 
 ## Research Directions
 
-My research encompasses methodological advancements and practical applications in operations research and machine learning, with a focus on the following areas:
+<!-- My research encompasses methodological advancements and practical applications in operations research and machine learning, with a focus on the following areas:
 
 - Optimization of transportation networks  
 - Optimization of warehouse operations 
 - Exact and heuristic optimization methods  
 - Deep learning and deep reinforcement learning applications 
-- Advancements in multi-objective optimization  
+- Advancements in multi-objective optimization   -->
 
+My research encompasses methodological advancements and practical applications in operations research and machine learning, with a focus on the following areas:
 
-<section class="callout">
-  <p>
-    I am always looking for motivated students with a strong background in mathematical optimization or machine learning to join my research group. If you are interested in working with me, <a href="mailto:abhay.sobhanan@iimb.ac.in">send me an email</a> with your CV and a brief description of your research interests.
+<div class="research-grid">
+  <div class="research-item">
+    <i class="fas fa-truck fa-2x" style="color: #007ACC;"></i>
+    <h4>Transportation Networks</h4>
+    <p>Optimization of routing and complex logistics.</p>
+  </div>
+  <div class="research-item">
+    <i class="fas fa-warehouse fa-2x" style="color: #007ACC;"></i>
+    <h4>Warehouse Operations</h4>
+    <p>Efficiency, storage, and facility management.</p>
+  </div>
+  <div class="research-item">
+    <i class="fas fa-brain fa-2x" style="color: #007ACC;"></i>
+    <h4>Deep Learning</h4>
+    <p>Applications in deep learning and reinforcement learning.</p>
+  </div>
+  <div class="research-item">
+    <i class="fas fa-project-diagram fa-2x" style="color: #007ACC;"></i>
+    <h4>Optimization Algorithms</h4>
+    <p>Exact, heuristic, and multi-objective optimization.</p>
+  </div>
+</div>
+
+<style>
+  .research-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+  }
+  .research-item {
+    text-align: center;
+    padding: 20px;
+    background-color: #fcfcfc;
+    border: 1px solid #eaeaea;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .research-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.08);
+  }
+  .research-item h4 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 1.05em;
+    color: #333;
+  }
+  .research-item p {
+    font-size: 0.9em;
+    color: #666;
+    margin-bottom: 0;
+    line-height: 1.4;
+  }
+</style>
+
+---
+
+<p style="text-align: justify;">
+  I welcome opportunities for academic and research engagements, including invited talks, seminars, collaborations, and other scholarly activities. If you are interested in discussing potential opportunities, please feel free to reach out.
+</p>
+
+<div class="notice--info">
+  <h4 style="margin-top: 0; margin-bottom: 10px;">🎓 Prospective Students</h4>
+  <p style="margin-bottom: 0; text-align: justify;">
+    Students interested in working with me on mathematical optimization or machine learning, please <strong><a href="/prospective-students/">read this page</a></strong> before reaching out.
   </p>
-  <!-- <p>
-    <strong> Please note: </strong> I am not offering internships or short-term projects at this time. </p> -->
-</section>
+</div>
+
+---
 
 
-<section class="contact-info">
-<br>
-  <p>
-    <strong>Mailing Address:</strong><br>
-    <br>
-    Prof. Abhay Sobhanan<br>
-    Faculty Block B-204<br>
-    Indian Institute of Management Bangalore<br>
-    Bannerghatta Road<br>
-    Bengaluru, KA 560076<br>
-    India
-  </p>
-  <p>
-    <strong>Office Phone:</strong> +91 (80) 2699 3200
-  </p>
-  <p>
-    <strong>Website:</strong> <a href="https://abhaysobhanan.github.io">https://abhaysobhanan.github.io</a>
-  </p>
-</section>
+## 📬 Contact Information
+**Mailing Address:** 
+Prof. Abhay Sobhanan  
+Faculty Block B-204  
+Indian Institute of Management Bangalore  
+Bannerghatta Road, 
+Bengaluru, KA 560076, 
+India  
 
+**Office Phone:** +91 (80) 2699 3200  
+
+**Email:** abhay.sobhanan@iimb.ac.in
