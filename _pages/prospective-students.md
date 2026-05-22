@@ -4,9 +4,9 @@ title: "Information for Prospective Students"
 author_profile: true
 ---
 
-Thank you for your interest in joining my research group at the Indian Institute of Management Bangalore!
+Thank you for your interest in joining my research group at the Indian Institute of Management Bangalore.
 
-I am always looking for highly motivated students and researchers with a strong background in mathematical optimization, operations research, or machine learning. 
+<!-- I am always looking for highly motivated students and researchers with a strong background in mathematical optimization, operations research, or machine learning.  -->
 
 ### What I look for in candidates:
 * **Strong quantitative skills:** A solid foundation in mathematics, probability, or statistics.

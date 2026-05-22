@@ -42,51 +42,8 @@ redirect_from:
   </p>
 </section> -->
 
-<style>
-  /* About intro */
-  .about-intro p {
-    text-align: justify;
-    margin-bottom: 1em;
-  }
-
-  /* Candidate callout box */
-  .callout {
-    border: 2px solid #007ACC;
-    background-color: #E6F4FF;
-    padding: 1.5em;
-    margin: 2em 0;
-    border-radius: 4px;
-  }
-  .callout h3 {
-    margin-top: 0;
-    color: #005A9E;
-    font-size: 1.25em;
-  }
-  .callout ul {
-    margin: 0.5em 0 0 1.5em;
-  }
-  .callout li {
-    margin-bottom: 0.5em;
-  }
-
-  /* Closing note */
-  .closing-note p {
-    text-align: justify;
-    font-style: italic;
-    margin-top: 2em;
-  }
-</style>
-
 
 ## Research Directions
-
-<!-- My research encompasses methodological advancements and practical applications in operations research and machine learning, with a focus on the following areas:
-
-- Optimization of transportation networks  
-- Optimization of warehouse operations 
-- Exact and heuristic optimization methods  
-- Deep learning and deep reinforcement learning applications 
-- Advancements in multi-objective optimization   -->
 
 My research encompasses methodological advancements and practical applications in operations research and machine learning, with a focus on the following areas:
 
@@ -116,7 +73,8 @@ My research encompasses methodological advancements and practical applications i
 <style>
   .research-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    /* This line forces exactly 2 equal-width columns */
+    grid-template-columns: repeat(2, 1fr); 
     gap: 20px;
     margin-top: 25px;
     margin-bottom: 30px;
@@ -146,13 +104,20 @@ My research encompasses methodological advancements and practical applications i
     margin-bottom: 0;
     line-height: 1.4;
   }
+
+  /* Optional but recommended: Stacks items on very small mobile screens */
+  @media (max-width: 600px) {
+    .research-grid {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>
 
 ---
 
-<p style="text-align: justify;">
+<i><p style="text-align: justify;">
   I welcome opportunities for academic and research engagements, including invited talks, seminars, collaborations, and other scholarly activities. If you are interested in discussing potential opportunities, please feel free to reach out.
-</p>
+</p></i>
 
 <div class="notice--info">
   <h4 style="margin-top: 0; margin-bottom: 10px;">🎓 Prospective Students</h4>
