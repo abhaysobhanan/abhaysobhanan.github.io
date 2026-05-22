@@ -135,8 +135,8 @@ My research encompasses methodological advancements and practical applications i
 Prof. Abhay Sobhanan  
 Faculty Block B-204  
 Indian Institute of Management Bangalore  
-Bannerghatta Road, 
-Bengaluru, KA 560076, 
+Bannerghatta Road 
+Bengaluru, KA 560076 
 India  
 
 **Office Phone:** +91 (80) 2699 3200  
