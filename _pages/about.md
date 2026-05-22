@@ -115,9 +115,9 @@ My research encompasses methodological advancements and practical applications i
 
 ---
 
-<i><p style="text-align: justify;">
+<p style="text-align: justify; font-style: italic;">
   I welcome opportunities for academic and research engagements, including invited talks, seminars, collaborations, and other scholarly activities. If you are interested in discussing potential opportunities, please feel free to reach out.
-</p></i>
+</p>
 
 <div class="notice--info">
   <h4 style="margin-top: 0; margin-bottom: 10px;">🎓 Prospective Students</h4>
