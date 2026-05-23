@@ -106,14 +106,14 @@ author_profile: true
 <div class="team-grid">
   
   <div class="team-member">
-    <img src="/images/students/KabirMurjani.png" alt="Kabir Murjani" class="team-photo">
+    <img src="/images/students/KabirMurjani.jpeg" alt="Kabir Murjani" class="team-photo">
     <h4>Kabir Murjani</h4>
     <p class="team-role">Summer Intern</p>
     <p class="team-date"><i class="far fa-calendar-alt"></i> Joined May 2026</p>
     <p class="team-bio">
       Kabir is working on solving the combined knapsack and traveling salesman problem.
       <br><br>
-      <a href="#"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/murj"><i class="fab fa-linkedin"></i> LinkedIn</a>
     </p>
   </div>
 
