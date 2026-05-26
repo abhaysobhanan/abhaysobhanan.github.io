@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 <section class="about-intro">
-  <p>
+  <p style="text-align: justify;">
     I am an Assistant Professor in the Decision Sciences area and a Young Faculty Research Chair at the <a href="https://www.iimb.ac.in">Indian Institute of Management Bangalore</a>. My research focuses on developing operations research and machine learning techniques to address complex optimization problems in transportation, warehousing, and supply chain management.
   </p>
 
 
-  <p>
+  <p style="text-align: justify;">
     I completed my PhD in Industrial Engineering at the University of South Florida in July 2025, where I conducted my doctoral research under the guidance of Dr. <a href="http://www.eng.usf.edu/~hcharkhgard/">Hadi Gard</a> and Dr. <a href="https://www.chkwon.net">Changhyun Kwon</a>.
     My dissertation research centered on solving large‑scale vehicle routing problems by developing new methodologies and tackling real‑world issues such as equitable workload allocation. 
     <!-- Prior to my PhD, I served as a Research Associate at the Indian Institute of Management Ahmedabad.  -->
