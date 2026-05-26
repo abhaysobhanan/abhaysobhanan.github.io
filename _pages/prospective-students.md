@@ -14,11 +14,11 @@ Thank you for your interest in joining my research group at the Indian Institute
 * **Research alignment:** An active interest in transportation networks, warehouse operations, or exact/heuristic optimization methods.
 
 ### Expectations
-To be upfront about what a collaboration entails, please carefully consider the following before reaching out:
-* **Long-term Commitment:** I do not take on short-term or summer projects. My work involves rigorous academic research that unfolds over multiple months and often spans multiple semesters. You are expected to maintain consistent commitment throughout, including during your coursework periods. 
-* **Follow-through:** Commitment to seeing a project through is essential. Dropping out midway is a significant cost to both of us, so please weigh your availability carefully before applying.
-* **Independence:** You will typically be the sole student on a given project, working directly under my guidance. You must be largely self-driven and proactive in your work.
-* **Transparency:** I expect honest efforts and transparent discussions at every meeting. We will discuss progress, challenges, and roadblocks openly, regardless of whether concrete results have materialized that week.
+Please carefully consider the following before reaching out:
+* I do not take on short-term or summer projects. My work involves rigorous academic research that unfolds over multiple months and often spans multiple semesters. You are expected to maintain consistent commitment throughout, including during your coursework periods. 
+* Commitment to seeing a project through is essential. Dropping out midway is a significant cost to both of us, so please weigh your availability carefully before applying.
+* You will typically be the sole student on a given project, working directly under my guidance. You must be largely self-driven and proactive in your work.
+* I expect honest efforts and transparent discussions at every meeting. We will discuss progress, challenges, and roadblocks openly, regardless of whether concrete results have materialized that week.
 * **Generative AI Policy:** I have a strict policy on the use of generative AI tools. They may serve as an aid in limited aspects of the work, but they must *never* substitute for independent thinking, critical analysis, or effort.
 
 ### Current Opportunities

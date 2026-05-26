@@ -4,8 +4,9 @@ title: "Research Group"
 author_profile: true
 ---
 
-<p style="text-align: justify;">I have been fortunate enough to work with an excellent group of students and researchers. Our group currently focuses on mathematical optimization, transportation networks, and machine learning.
+<p style="text-align: justify;">Our group currently focuses on mathematical optimization, transportation networks, and machine learning.
 </p>
+<!-- I have been fortunate enough to work with an excellent group of students and researchers. -->
 
 <style>
   /* Current Members Grid Styles */
@@ -118,13 +119,13 @@ author_profile: true
   </div>
 
   <div class="team-member">
-    <img src="/images/students/TaniyaShaji.png" alt="Taniya Shaji" class="team-photo">
+    <img src="/images/students/TaniyaShaji.jpeg" alt="Taniya Shaji" class="team-photo">
     <h4>Taniya Shaji</h4>
     <p class="team-role">Research Associate</p>
     <p class="team-date"><i class="far fa-calendar-alt"></i> Joined Dec 2025</p>
     <p class="team-bio">
       Taniya's research focuses on deep reinforcement learning and optimization of warehouse operations. <br><br>
-      <a href="#"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/taniya-shaji-6b1570214/"><i class="fab fa-linkedin"></i> LinkedIn</a>
     </p>
   </div>
 
