@@ -132,7 +132,7 @@ My research encompasses methodological advancements and practical applications i
 ## 📬 Contact Information
 **Mailing Address:** 
 
-Prof. Abhay Sobhanan  
+Dr. Abhay Sobhanan  
 Faculty Block B-204  
 Indian Institute of Management Bangalore  
 Bannerghatta Road  
