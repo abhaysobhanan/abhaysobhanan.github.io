@@ -1,17 +1,24 @@
 ---
 layout: archive
-title: "Resources"
+# title: "Resources"
 permalink: /resources/
 author_profile: true
 ---
 
+<!-- {% include base_path %} -->
+
+
+<!-- {% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %} -->
+# Resources
 Some useful resources for Operations Research enthusiasts and PhD students.
 
 ## Operations Research
 
 - [INFORMS](https://www.informs.org) is the largest international association for researchers and professionals in OR and related fields, and offers conferences, networking opportunities, news, job postings, resources and publications. 
 
-- [Subject to](https://www.youtube.com/@Subjectto_){:target="_blank"} is a series of conversations with prominent researchers in Operations Research/Management, hosted by [Anand Subramanian](https://sites.google.com/view/anand-subramanian/).
+- [Subject to](www.youtube.com/@Subjectto_){:target="_blank"} is a series of conversations with prominent researchers in Operations Research/Management, hosted by [Anand Subramanian](https://sites.google.com/view/anand-subramanian/).
 
 - [Julia Programming for Operations Research](https://www.chkwon.net/julia/) by [Changhyun Kwon](https://www.chkwon.net) offers introductory programming tutorials alongside simple examples to solve popular optimization methods and problems.
 
@@ -25,7 +32,7 @@ Some useful resources for Operations Research enthusiasts and PhD students.
 
 - [The importance of stupidity in scientific research](https://doi.org/10.1242/jcs.033340){:target="_blank"} by Martin A. Schwartz is an interesting read for researchers pondering unanswered questions in their field. 
 
-- [Why You Should De-Optimize Your Life](https://youtu.be/cqdm9z3oF0c): Maria Cano talks about the role of occasional de-optimization in long-term productivity.
+- [Why You Should De-Optimize Your Life](https://youtu.be/cqdm9z3oF0c): Maria Cano talks about the role of occassional de-optimization in long-term productivity.
 
 
 ## PhD Students
