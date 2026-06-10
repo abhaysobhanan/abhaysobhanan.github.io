@@ -1,6 +1,7 @@
 ---
 permalink: /prospective-students/
 title: "Information for Prospective Students"
+description: "Guidance for students interested in joining Abhay Sobhanan's research group at IIM Bangalore: expectations, current openings, and how to apply."
 author_profile: true
 ---
 

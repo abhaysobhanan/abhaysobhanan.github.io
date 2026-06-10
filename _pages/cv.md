@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
-<!-- A detailed CV is available [here](https://abhaysobhanan.github.io/files/Abhay_CV.pdf){:target="_blank"}. -->
+A PDF version of my CV is available [here](/files/Abhay_CV.pdf){:target="_blank"}.
 
 Professional Experience
 ======
@@ -74,18 +73,3 @@ Service
 * Student Officer, INFORMS Student Chapter at USF during Fall 2021 - Summer 2023. 
 
 * Professional Chair, Tau Beta Pi - Florida Gamma Chapter during Fall 2022. 
-
-
-<!-- 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
