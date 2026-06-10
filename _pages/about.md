@@ -25,7 +25,7 @@ redirect_from:
 ---
 
 ### 📢 Recent News & Updates
-* **[Apr 2026]** Awarded ANRF Prime Minster Early Career Research Grant.
+* **[Apr 2026]** Received ANRF Prime Minister Early Career Research Grant.
 * **[Jan 2026]** Paper on workload equity in crowdshipping accepted for publication in Production and Operations Management journal.
 * **[Aug 2025]** Joined the Indian Institute of Management Bangalore as an Assistant Professor!
 * **[Jun 2025]** Successfully defended my PhD in Industrial Engineering at the University of South Florida.

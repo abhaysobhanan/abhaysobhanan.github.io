@@ -4,7 +4,9 @@ title: "Information for Prospective Students"
 author_profile: true
 ---
 
-Thank you for your interest in joining my research group at the Indian Institute of Management Bangalore.
+<div style="text-align: justify;" markdown="1">
+
+Please read the following guidelines carefully to determine if my research group is a good fit for your background and goals.
 
 <!-- I am always looking for highly motivated students and researchers with a strong background in mathematical optimization, operations research, or machine learning.  -->
 
@@ -15,24 +17,23 @@ Thank you for your interest in joining my research group at the Indian Institute
 
 ### Expectations
 Please carefully consider the following before reaching out:
-* I do not take on short-term or summer projects. My work involves rigorous academic research that unfolds over multiple months and often spans multiple semesters. You are expected to maintain consistent commitment throughout, including during your coursework periods. 
-* Commitment to seeing a project through is essential. Dropping out midway is a significant cost to both of us, so please weigh your availability carefully before applying.
-* You will typically be the sole student on a given project, working directly under my guidance. You must be largely self-driven and proactive in your work.
-* I expect honest efforts and transparent discussions at every meeting. We will discuss progress, challenges, and roadblocks openly, regardless of whether concrete results have materialized that week.
-* **Generative AI Policy:** I have a strict policy on the use of generative AI tools. They may serve as an aid in limited aspects of the work, but they must *never* substitute for independent thinking, critical analysis, or effort.
+* I do not offer short-term or summer projects. Academic research spans multiple months/semesters. Do not apply if you cannot commit to a continuous, long-term project.
+* You will typically be the sole student on a project, working directly under my guidance. Proactive problem-solving is essential.
+* Honest effort will be expected on the project. We will openly discuss progress and roadblocks at every meeting, whether or not we have concrete results.
+* **Generative AI Policy:** AI tools may assist with minor tasks (like syntax debugging or grammar checks) but must *never* substitute for independent problem-solving, mathematical derivations, or original academic writing.
 
 ### Current Opportunities
-* **PhD Students at IIMB:** If you are already enrolled at IIM Bangalore and are interested in my research areas, please feel free to stop by my office or email me to set up a chat.
-* **Research Associates / Assistants:** Please refer to the application instructions below. 
-* *(Note: As mentioned above, I am not offering short-term internships or summer projects at this time.)*
+* **IIMB PhD Students:** If you are currently enrolled at IIM Bangalore and our interests align, stop by my office or email me to chat.
+* **Research Associates / Assistants:** Please see the application instructions below. 
+*(Note: No summer internships)*
 
 ### How to Apply
-If you have read the expectations above and believe there is a strong mutual fit, please send an email to [abhay.sobhanan@iimb.ac.in](mailto:abhay.sobhanan@iimb.ac.in) with the subject line **"Prospective Student: [Your Name]"**. 
+If you meet the criteria and accept the expectations above, email [abhay.sobhanan@iimb.ac.in](mailto:abhay.sobhanan@iimb.ac.in) with the subject **"Prospective Student: [Your Name]"**.
 
-Please ensure you include the following in your email:
-1. A brief paragraph describing your research interests and specifically how they align with my recent work.
-2. A brief confirmation that you understand and can commit to the long-term timeline and expectations outlined above.
-3. Your updated CV.
-4. Unofficial transcripts from your previous degrees.
+Please include:
+1. A brief paragraph explaining how your interests align with my research directions.
+2. Your updated CV and unofficial transcripts.
 
-**Note:** Due to the high volume of inquiries I receive, I may not be able to respond to every email. I will reach out to you if your background aligns well with my current open projects.
+**Note:** Due to high email volume, I will only respond if your profile strongly matches an open project.
+
+</div>
