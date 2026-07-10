@@ -26,6 +26,29 @@ author_profile: true
 # Articles under Review
 <ol reversed>
 
+
+
+<li> Shaji T, Sobhanan A, Defryn C. "Deep Reinforcement Learning for Dynamic Battery Management of Autonomous Order Pickers". arXiv preprint arXiv:2607.05683. 2026 July 06.<span style="display: inline-block; width: 10px;"></span>
+    <details style="display: inline-block; font-size: 80%;">
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
+    <br>
+    <div class="justified-text">
+    Battery charging of Autonomous Mobile Robots (AMRs) in warehouses is a critical operational challenge that heavily impacts both order processing times and throughput. In this study, we address the dynamic AMR charging problem under stochastic order arrivals, where robots must learn optimal charging decisions. Traditional fixed-rule heuristics often prove suboptimal in dynamic environments and fail to account for multi-AMR coordination, leading to severe resource inefficiencies. To overcome these limitations, we propose a Proximal Policy Optimization (PPO)-based Deep Reinforcement Learning (DRL) framework designed for multi-block warehouses with fixed charging stations. Our model dynamically learns two key decisions: charging station selection and optimal charging duration, explicitly accounting for anticipated queuing times at the stations. Extensive numerical experiments benchmark the proposed model against state-of-the-art DRL and traditional heuristic approaches. Results demonstrate that our PPO framework increases order-completion rates by up to 6% compared to the strongest baseline, while significantly reducing the total time dedicated to recharging operations. Furthermore, we validate the model's robustness across diverse warehouse configurations and stochastic arrival rates. Finally, we interpret the learned DRL policy, offering valuable operational insights into its superiority over standard benchmarks.
+    </div>
+    </details>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://arxiv.org/abs/2607.05683" style="text-decoration: none; color: inherit;">
+    arXiv:2607.05683
+    </a> 
+    </summary>
+        <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://github.com/taniya-0/dynamic-battery-drl/" style="text-decoration: none; color: inherit;">
+    code
+    </a> 
+    </summary>
+</li>
+
+
 <li> Sobhanan A, Charkhgard H, Kwon C. "Arc Routing Problems with Multiple Trucks and Drones: A Hybrid Genetic Algorithm". arXiv preprint arXiv:2508.18105. 2025 August 25.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
@@ -47,7 +70,7 @@ author_profile: true
 
 <ol reversed>
 
-<li> Sobhanan A, Charkhgard H, Dayarian I. "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Production and Operations Management, forthcoming.<span style="display: inline-block; width: 10px;"></span>
+<li> Sobhanan A, Charkhgard H, Dayarian I. (2026). "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery". Production and Operations Management, 35(8), 3180–3203.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
     <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
     <br>
@@ -60,7 +83,13 @@ author_profile: true
     preprint
     </a> 
     </summary>
+        <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://doi.org/10.1177/10591478261425875" style="text-decoration: none; color: inherit;">
+    https://doi.org/10.1177/10591478261425875
+    </a> 
+    </summary>
 </li>
+
 
 <li> Mahmoudinazlou S, Sobhanan A, Charkhgard H, Eshragh A, Dunn G. (2025). "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations". Computers & Operations Research, 107112. <span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
