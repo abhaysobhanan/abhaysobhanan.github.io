@@ -5,7 +5,7 @@ permalink: /beyond-research/
 author_profile: true
 ---
 
-Away from work, I like to travel ocassionally. Here is a map highlighting the small list of countries I have been fortunate to explore so far.
+Away from work, I like to travel ocassionally. Here is a map highlighting the small list of countries I have visited so far.
 
 <!-- Map library (loaded only on this page) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/jsvectormap.min.css">

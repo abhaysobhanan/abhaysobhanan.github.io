@@ -6,7 +6,6 @@ author_profile: true
 
 <div style="text-align: justify;" markdown="1">
 
-Please read the following guidelines carefully to determine if my research group is a good fit for your background and goals.
 
 <!-- I am always looking for highly motivated students and researchers with a strong background in mathematical optimization, operations research, or machine learning.  -->
 
