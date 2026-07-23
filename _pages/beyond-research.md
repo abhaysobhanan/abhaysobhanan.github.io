@@ -8,7 +8,7 @@ author_profile: true
 Away from work, I like to travel ocassionally. Here is a map highlighting the small list of countries I have been fortunate to explore so far.
 
 <!-- Map library (loaded only on this page) -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/css/jsvectormap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/jsvectormap.min.css">
 
 <div id="travel-map"></div>
 
@@ -70,35 +70,41 @@ Away from work, I like to travel ocassionally. Here is a map highlighting the sm
   }
 </style>
 
-<script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/js/jsvectormap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/jsvectormap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.6.0/dist/maps/world.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
-    if (!window.jsVectorMap) return;
-    new jsVectorMap({
-      selector: "#travel-map",
-      map: "world",
-      backgroundColor: "transparent",
-      zoomOnScroll: false,
-      zoomButtons: true,
-      regionsSelectable: false,
-      selectedRegions: ["{{ site.data.travel.countries | map: 'code' | join: '", "' }}"],
-      regionStyle: {
-        initial:       { fill: "#e3e7ec", stroke: "#ffffff", strokeWidth: 0.4 },
-        hover:         { fill: "#9eccec", fillOpacity: 1 },
-        selected:      { fill: "#007ACC" },
-        selectedHover: { fill: "#025c96" }
-      },
-      markersSelectable: false,
-      markers: [
-{%- for m in site.data.travel.markers -%}
-        { name: {{ m.name | jsonify }}, coords: [{{ m.coords[0] }}, {{ m.coords[1] }}] }{% unless forloop.last %},{% endunless %}
-{%- endfor -%}
-      ],
-      markerStyle: {
-        initial: { fill: "#e8890c", stroke: "#ffffff", strokeWidth: 1.5, r: 5 },
-        hover:   { fill: "#c56f00" }
-      }
-    });
+    var el = document.getElementById("travel-map");
+    if (typeof jsVectorMap === "undefined") {
+      console.error("[travel-map] jsVectorMap library did not load.");
+      if (el) { el.innerHTML = '<p style="text-align:center;color:#999;padding-top:2.5em;">Map could not be loaded — please check your connection.</p>'; }
+      return;
+    }
+    try {
+      new jsVectorMap({
+        selector: "#travel-map",
+        map: "world",
+        backgroundColor: "transparent",
+        zoomOnScroll: false,
+        zoomButtons: true,
+        regionsSelectable: false,
+        selectedRegions: {{ site.data.travel.countries | map: 'code' | jsonify }},
+        regionStyle: {
+          initial:       { fill: "#e3e7ec", stroke: "#ffffff", strokeWidth: 0.4 },
+          hover:         { fill: "#9eccec", fillOpacity: 1 },
+          selected:      { fill: "#007ACC" },
+          selectedHover: { fill: "#025c96" }
+        },
+        markersSelectable: false,
+        markers: {% if site.data.travel.markers %}{{ site.data.travel.markers | jsonify }}{% else %}[]{% endif %},
+        markerStyle: {
+          initial: { fill: "#e8890c", stroke: "#ffffff", strokeWidth: 1.5, r: 5 },
+          hover:   { fill: "#c56f00" }
+        }
+      });
+    } catch (e) {
+      console.error("[travel-map]", e);
+      if (el) { el.innerHTML = '<p style="text-align:center;color:#999;padding-top:2.5em;">Map could not be rendered.</p>'; }
+    }
   });
 </script>

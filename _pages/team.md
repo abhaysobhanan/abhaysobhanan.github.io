@@ -8,6 +8,13 @@ author_profile: true
 </p>
 <!-- I have been fortunate enough to work with an excellent group of students and researchers. -->
 
+<div class="notice--info" style="margin-top: 1em;">
+  <h4 style="margin-top: 0; margin-bottom: 10px;">🎓 Interested in joining?</h4>
+  <p style="margin-bottom: 0; text-align: justify;">
+    Prospective students and interns: please read <strong><a href="/prospective-students/">this page</a></strong> before reaching out.
+  </p>
+</div>
+
 <style>
   /* Current Members Grid Styles */
   .team-grid {

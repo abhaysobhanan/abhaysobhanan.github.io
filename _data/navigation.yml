@@ -15,11 +15,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Team"              
-    url: /team/                  
-
-  - title: "Join My Group"  
-    url: /prospective-students/ 
+  - title: "Team"
+    url: /team/
 
   - title: "Resources"
     url: /resources/
