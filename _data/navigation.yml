@@ -24,6 +24,9 @@ main:
   - title: "Resources"
     url: /resources/
 
+  - title: "Beyond Research"
+    url: /beyond-research/
+
   # - title: "Miscellaneous"
   #   url: /year-archive/
     

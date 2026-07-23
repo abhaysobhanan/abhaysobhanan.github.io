@@ -1,0 +1,31 @@
+# =============================================================================
+#  Places I've traveled to — powers the map on the "Beyond Research" page.
+# =============================================================================
+#
+#  TO ADD A NEW COUNTRY:  add one line under `countries` below, e.g.
+#      - { name: Japan, code: JP }
+#  `code` is the 2-letter ISO 3166-1 alpha-2 code, UPPERCASE.
+#  Look one up here: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+#
+#  TO ADD A CITY / SMALL PLACE that is too tiny to show as a whole country
+#  (islands, city-states, a single city like Hong Kong), add it under
+#  `markers` with its latitude & longitude instead:
+#      - { name: Singapore, coords: [1.3521, 103.8198] }
+#
+#  The map and the country list update automatically. That's it.
+# =============================================================================
+
+countries:
+  - { name: India,                code: IN }
+  - { name: Canada,               code: CA }
+  - { name: United States,        code: US }
+  - { name: Costa Rica,           code: CR }
+  - { name: United Arab Emirates, code: AE }   # Dubai
+  - { name: Belgium,              code: BE }
+  - { name: Luxembourg,           code: LU }
+  - { name: Netherlands,          code: NL }
+  - { name: Austria,              code: AT }
+  - { name: Slovakia,             code: SK }
+
+markers:
+  - { name: Hong Kong, coords: [22.3193, 114.1694] }
