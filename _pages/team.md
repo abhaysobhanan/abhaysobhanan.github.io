@@ -1,10 +1,8 @@
 ---
 permalink: /team/
-title: "Research Group"
+title: "CORBIT Lab"
 author_profile: true
 ---
-
-## CORBIT Lab
 
 <p style="text-align: justify;"> Combinatorial Optimization, Routing, & Business Intelligence in Transportation (CORBIT) Lab focuses on mathematical optimization, transportation networks, and machine learning. To see our open-source projects, published datasets, and codebases, please visit our <a href="https://github.com/corbit-lab" target="_blank">GitHub Organization</a>.
 </p>
