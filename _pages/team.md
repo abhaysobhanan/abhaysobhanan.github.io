@@ -4,7 +4,9 @@ title: "Research Group"
 author_profile: true
 ---
 
-<p style="text-align: justify;">Our group currently focuses on mathematical optimization, transportation networks, and machine learning.
+## CORBIT Lab
+
+<p style="text-align: justify;"> Combinatorial Optimization, Routing, & Business Intelligence in Transportation (CORBIT) Lab focuses on mathematical optimization, transportation networks, and machine learning. To see our open-source projects, published datasets, and codebases, please visit our <a href="https://github.com/corbit-lab" target="_blank">GitHub Organization</a>.
 </p>
 <!-- I have been fortunate enough to work with an excellent group of students and researchers. -->
 
@@ -112,6 +114,16 @@ author_profile: true
 ## Current Members
 
 <div class="team-grid">
+
+<!-- Lab Director Profile -->
+  <div class="team-member">
+    <img src="/images/abhay.jpg" alt="Dr. Abhay Sobhanan" class="team-photo">
+    <h4>Abhay Sobhanan</h4>
+    <p class="team-role">Lab Director</p>
+    <p class="team-bio">
+      <a href="https://www.linkedin.com/in/abhaysobhanan/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+    </p>
+  </div>
   
   <div class="team-member">
     <img src="/images/students/KabirMurjani.jpeg" alt="Kabir Murjani" class="team-photo">
