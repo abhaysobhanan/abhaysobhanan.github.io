@@ -167,12 +167,12 @@ author_profile: true
 
   <div class="team-member">
     <!-- Remember to add Anshul's image below -->
-    <img src="/images/students/placeholder.jpg" alt="Anshul Agrawal" class="team-photo">
+    <img src="/images/students/AnshulAgrawal.jpg" alt="Anshul Agrawal" class="team-photo">
     <h4>Anshul Agrawal</h4>
     <p class="team-role">B.E. Industrial Engineering, M.S. Ramaiah Institute of Technology</p>
     <p class="team-date"><i class="far fa-calendar-alt"></i> Joined March 2026</p>
     <p class="team-bio">
-      Anshul is working on the cross-dock truck scheduling problem.
+      Anshul's research interests cover operational optimization using stochastic discrete-event simulation.
     </p>
     <div class="social-links">
       <!-- Remember to update Anshul's LinkedIn URL below -->
