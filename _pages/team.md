@@ -155,7 +155,7 @@ author_profile: true
   <div class="team-member">
     <img src="/images/students/KabirMurjani.jpeg" alt="Kabir Murjani" class="team-photo">
     <h4>Kabir Murjani</h4>
-    <p class="team-role">B.Tech Electrical Engineering, Nirma University</p>
+    <p class="team-role">B.Tech. Electrical Engineering, Nirma University</p>
     <p class="team-date"><i class="far fa-calendar-alt"></i> Joined February 2026</p>
     <p class="team-bio">
       Kabir is working on solving the combined knapsack and traveling salesman problem. He also worked as a summer intern at the CORBIT Lab during May–June 2026.
