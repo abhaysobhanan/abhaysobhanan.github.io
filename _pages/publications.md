@@ -26,7 +26,25 @@ author_profile: true
 # Articles under Review
 <ol reversed>
 
-
+<li> Murjani K, Sobhanan A. "Drive, Pack, Fly: The Travelling Thief Problem with Drone". arXiv preprint arXiv:2608.16435. 2026 August 17.<span style="display: inline-block; width: 10px;"></span>
+    <details style="display: inline-block; font-size: 80%;">
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; cursor: pointer;"><em>abstract</em></summary>
+    <br>
+    <div class="justified-text">
+    In collection operations, accumulating payload progressively slows the vehicle, imposing a cumulative penalty on routing efficiency. An onboard drone can offset this penalty by retrieving outlying items, thereby shortening the makespan and increasing operational profit. However, travel time remains load-dependent, and each item collected by the ground vehicle shifts the arrival times that govern the drone's launch and rendezvous points. This paper introduces the Travelling Thief Problem with Drone (TTP-D), which maximises the collected profit, net of a time-based rental cost, by jointly optimising item selection, vehicle routing, and flight synchronisation. We formulate a mixed-integer linear program that solves small instances to optimality, and develop both metaheuristics and an attention-based Deep Reinforcement Learning (DRL) policy for larger instances. We further propose a learner-initialised hybrid solver, in which the DRL policy constructs an initial solution that a short annealing run subsequently refines. On two benchmark sets, this hybrid recovers most of the metaheuristic baseline's quality at a fraction of its computational budget, although the largest instances still require the baseline at its full budget. Finally, a sensitivity analysis reveals that the rental ratio is the primary driver of profitability, whereas the fleet parameters affect profit only at the margin.
+    </div>
+    </details>
+    <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://arxiv.org/abs/2608.16435" style="text-decoration: none; color: inherit;">
+    arXiv:2608.16435
+    </a> 
+    </summary>
+        <summary style="display: inline-block; border: 1px solid #ccc; padding: 3px 8px; border-radius: 5px; font-size: 80%"> 
+    <a href="https://github.com/corbit-lab/ttpd" style="text-decoration: none; color: inherit;">
+    code
+    </a> 
+    </summary>
+</li>
 
 <li> Shaji T, Sobhanan A, Defryn C. "Deep Reinforcement Learning for Dynamic Battery Management of Autonomous Order Pickers". arXiv preprint arXiv:2607.05683. 2026 July 06.<span style="display: inline-block; width: 10px;"></span>
     <details style="display: inline-block; font-size: 80%;">
