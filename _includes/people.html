@@ -1,0 +1,25 @@
+<ul class="people">
+  {%- for m in include.people %}
+  <li class="person">
+    {%- if m.photo %}
+    <img src="{{ m.photo | relative_url }}" alt="{{ m.name }}" width="240" height="240" loading="lazy">
+    {%- endif %}
+    <div>
+      <h3>{{ m.name }}</h3>
+      <p class="role">{{ m.role }}{% if m.since %}, since {{ m.since }}{% endif %}</p>
+      {%- if m.bio %}
+      <p>{{ m.bio }}</p>
+      {%- endif %}
+      {%- if m.papers or m.linkedin %}
+      <ul class="pub-links">
+        {%- for id in m.papers %}
+        {%- assign rp = site.data.publications | where: "id", id | first %}
+        {%- if rp %}<li><a href="{{ '/publications/' | relative_url }}#{{ rp.id }}">Paper ({{ rp.year }})</a></li>{% endif %}
+        {%- endfor %}
+        {%- if m.linkedin %}<li><a href="{{ m.linkedin }}">LinkedIn</a></li>{% endif %}
+      </ul>
+      {%- endif %}
+    </div>
+  </li>
+  {%- endfor %}
+</ul>

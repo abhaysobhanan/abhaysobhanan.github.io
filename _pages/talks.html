@@ -1,19 +1,35 @@
 ---
-layout: archive
-title: "Talks and presentations"
+title: Talks
 permalink: /talks/
-author_profile: true
+layout: page
+sections:
+  - { type: invited,    title: Invited talks }
+  - { type: tutorial,   title: Tutorials }
+  - { type: conference, title: Conference presentations }
 ---
-<!-- 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %} -->
-
-
-To be updated soon...
+<div class="col">
+  {%- for s in page.sections %}
+  {%- assign items = site.data.talks | where: "type", s.type %}
+  {%- if items.size > 0 %}
+  <section class="section" aria-labelledby="{{ s.type }}">
+    <h2 id="{{ s.type }}">{{ s.title }}</h2>
+    <ol class="dated loose years">
+      {%- assign prev = nil %}
+      {%- for t in items %}
+      <li>
+        <span class="when">{% if t.year != prev %}{{ t.year }}{% endif %}</span>
+        <div class="what">
+          <p class="pub-title">{{ t.title }}</p>
+          <p class="pub-meta">{{ t.venue }}, {{ t.date }}</p>
+          {%- if t.slides %}
+          <ul class="pub-links"><li><a href="{{ t.slides }}">Slides</a></li></ul>
+          {%- endif %}
+        </div>
+      </li>
+      {%- assign prev = t.year %}
+      {%- endfor %}
+    </ol>
+  </section>
+  {%- endif %}
+  {%- endfor %}
+</div>

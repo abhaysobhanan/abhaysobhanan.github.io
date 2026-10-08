@@ -1,0 +1,60 @@
+---
+layout: default
+---
+{%- assign a = site.author -%}
+<div class="frame">
+  <section class="col intro" aria-label="About">
+    <div class="hang">
+      <img class="portrait" src="{{ a.photo | relative_url }}" alt="Portrait of {{ a.name }}" width="352" height="440">
+    </div>
+    <div class="intro-text">
+      <h1>{{ a.name }}</h1>
+      <div class="intro-body">
+        {{ content }}
+        <ul class="profiles">
+          <li><a href="mailto:{{ a.email }}">Email</a></li>
+          {%- for l in site.profiles %}
+          <li><a href="{{ l.url }}">{{ l.name }}</a></li>
+          {%- endfor %}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <div class="col">
+    <section class="section" aria-labelledby="news">
+      <h2 id="news">News</h2>
+      <ol class="dated">
+        {%- for n in site.data.news limit: 6 %}
+        <li>
+          <span class="when">{{ n.date }}</span>
+          <div class="what">{{ n.text | markdownify }}</div>
+        </li>
+        {%- endfor %}
+      </ol>
+    </section>
+
+    <section class="section" aria-labelledby="research">
+      <h2 id="research">Research</h2>
+      {%- for t in site.data.research %}
+      <div class="theme">
+        <h3>{{ t.title }}</h3>
+        {{ t.text | markdownify }}
+        <ul class="refs">
+          {%- for p in site.data.publications %}
+          {%- if p.topics contains t.id %}
+          <li><a href="{{ '/publications/' | relative_url }}#{{ p.id }}">{{ p.title }}</a>
+            <span class="venue">{% if p.venue %}<cite>{{ p.venue }}</cite>{% else %}Preprint{% endif %}, {{ p.year }}</span></li>
+          {%- endif %}
+          {%- endfor %}
+        </ul>
+      </div>
+      {%- endfor %}
+    </section>
+
+    <section class="section" aria-labelledby="together">
+      <h2 id="together">Working with me</h2>
+      {{ page.working_with_me | markdownify }}
+    </section>
+  </div>
+</div>

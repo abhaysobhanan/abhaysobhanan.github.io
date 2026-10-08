@@ -1,0 +1,19 @@
+<ol class="dated loose years">
+  {%- for g in site.data.grants %}
+  <li>
+    <span class="when">{{ g.year }}</span>
+    <div class="what">
+      <p class="pub-title">{{ g.title }}</p>
+      <p class="pub-meta">{{ g.funder }}. {{ g.role }}{% if g.status == "ongoing" %}, ongoing{% endif %}.</p>
+      {%- if g.related %}
+      <p class="pub-meta">Related:
+        {%- for id in g.related %}
+        {%- assign rp = site.data.publications | where: "id", id | first %}
+        {%- if rp %} <a href="{{ '/publications/' | relative_url }}#{{ rp.id }}">{{ rp.title }}</a>{% unless forloop.last %};{% endunless %}{% endif %}
+        {%- endfor %}
+      </p>
+      {%- endif %}
+    </div>
+  </li>
+  {%- endfor %}
+</ol>

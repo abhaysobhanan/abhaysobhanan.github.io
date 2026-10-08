@@ -1,33 +1,28 @@
 ---
+title: Prospective students
 permalink: /prospective-students/
-title: "Information for Prospective Students"
-author_profile: true
+layout: prose
+lede: Notes for students and research associates who would like to work with me.
 ---
 
-<div style="text-align: justify;" markdown="1">
+## What I look for
 
+- **Strong quantitative skills:** a solid foundation in mathematics, probability or statistics.
+- **Programming proficiency:** experience with a language such as Python, Julia, Java or C++, and familiarity with optimization solvers (e.g., Gurobi, CPLEX) or deep learning frameworks (e.g., PyTorch, TensorFlow).
+- **Research alignment:** an active interest in transportation networks, warehouse operations, or exact and heuristic optimization methods.
 
-<!-- I am always looking for highly motivated students and researchers with a strong background in mathematical optimization, operations research, or machine learning.  -->
+I do not offer short-term or summer projects. Please apply only if you can commit to working with me continuously over the long term.
 
-### What I look for in candidates:
-* **Strong quantitative skills:** A solid foundation in mathematics, probability, or statistics.
-* **Programming proficiency:** Experience with one of the programming languages such as Python, Julia, Java, or C++, and familiarity with optimization solvers (e.g., Gurobi, CPLEX) or deep learning frameworks (e.g., PyTorch, TensorFlow).
-* **Research alignment:** An active interest in transportation networks, warehouse operations, or exact/heuristic optimization methods.
+## Current opportunities
 
-*Please note that I do not offer short-term or summer projects, so please do not apply if you cannot make a continuous, long-term commitment.*
+- **IIMB PhD students:** if you are enrolled at IIM Bangalore and our interests align, stop by my office or email me to chat.
+- **Research associates and assistants:** see how to apply below. There are no summer internships.
 
-### Current Opportunities
-* **IIMB PhD Students:** If you are currently enrolled at IIM Bangalore and our interests align, stop by my office or email me to chat.
-* **Research Associates / Assistants:** Please see the application instructions below. 
-*(Note: No summer internships)*
+## How to apply
 
-### How to Apply
-Interested candidates may email [abhay.sobhanan@iimb.ac.in](mailto:abhay.sobhanan@iimb.ac.in) with the subject "Prospective Research Associate".
+Email [abhay.sobhanan@iimb.ac.in](mailto:abhay.sobhanan@iimb.ac.in) with the subject line "Prospective Research Associate", and include:
 
-Please include:
-1. A brief paragraph explaining how your interests align with my research directions.
-2. Your updated CV and unofficial transcripts.
+1. a short paragraph on how your interests align with [my research](/#research);
+2. your current CV and unofficial transcripts.
 
-**Note:** Due to high email volume, I will only respond if your profile strongly matches an open project.
-
-</div>
+Because I receive many emails, I reply only when a profile closely matches an open project.

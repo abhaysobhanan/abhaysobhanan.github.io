@@ -1,32 +1,36 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include analytics.html %}
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16191c" media="(prefers-color-scheme: dark)">
+  <link rel="preload" href="{{ '/assets/fonts/source-serif-4-latin-standard-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <link rel="icon" href="{{ '/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="alternate icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  {%- if jekyll.environment == "production" and site.google_analytics %}
+  {% include analytics.html %}
+  {%- endif %}
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  {% include header.html %}
+  <main id="main">
     {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
+  </main>
+  {% include footer.html %}
+  <script>
+    // Show and hide paper abstracts.
+    document.addEventListener("click", function (e) {
+      var b = e.target.closest(".abs-toggle");
+      if (!b) return;
+      var box = document.getElementById(b.getAttribute("aria-controls"));
+      var open = b.getAttribute("aria-expanded") === "true";
+      b.setAttribute("aria-expanded", String(!open));
+      box.hidden = open;
+    });
+  </script>
+</body>
 </html>

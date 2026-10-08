@@ -1,0 +1,46 @@
+---
+title: CORBIT Lab
+permalink: /team/
+layout: page
+lede: >-
+  The Combinatorial Optimization, Routing, & Business Intelligence in
+  Transportation (CORBIT) Lab works on mathematical optimization,
+  transportation networks and machine learning. Our code and datasets are on
+  [GitHub](https://github.com/corbit-lab).
+---
+{%- assign team = site.data.team -%}
+<div class="col">
+  <section class="section" aria-labelledby="members">
+    <h2 id="members">Members</h2>
+    {% include people.html people=team.current %}
+  </section>
+
+  {%- if team.external.size > 0 %}
+  <section class="section" aria-labelledby="external">
+    <h2 id="external">Student researchers</h2>
+    {% include people.html people=team.external %}
+  </section>
+  {%- endif %}
+
+  {%- if team.alumni.size > 0 %}
+  <section class="section" aria-labelledby="alumni">
+    <h2 id="alumni">Past members</h2>
+    <ul class="people">
+      {%- for m in team.alumni %}
+      <li class="person-past">
+        <p class="pub-title">{{ m.name }}</p>
+        <p class="pub-meta">{{ m.role }}, {{ m.period }}</p>
+        {%- if m.project %}
+        <p class="pub-meta">Project: {{ m.project }}</p>
+        {%- endif %}
+      </li>
+      {%- endfor %}
+    </ul>
+  </section>
+  {%- endif %}
+
+  <section class="section" aria-labelledby="join">
+    <h2 id="join">Joining</h2>
+    <p>Prospective students and research associates: please read the <a href="{{ '/prospective-students/' | relative_url }}">notes for prospective students</a> before getting in touch.</p>
+  </section>
+</div>

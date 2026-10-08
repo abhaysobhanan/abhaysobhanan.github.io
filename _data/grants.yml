@@ -1,0 +1,24 @@
+# =============================================================================
+#  Funded projects: shown on the Projects page and in the CV.
+#  `related` lists ids from _data/publications.yml.
+# =============================================================================
+
+- title: "Falcon's Heist: Airborne Traveling Thief Problem"
+  role: Principal Investigator
+  funder: IIMB Challenge Grant
+  year: 2026
+  status: ongoing
+  related: [ttp-drone]
+
+- title: Neural-Guided Solvers for Large-Scale Combinatorial Optimization Problems
+  role: Principal Investigator
+  funder: ANRF Prime Minister Early Career Research Grant
+  year: 2026
+  status: ongoing
+
+- title: Dynamic Charging for Order-Picking Devices in Automated Warehouses
+  role: Principal Investigator
+  funder: IIMB Research Seed Grant
+  year: 2025
+  status: ongoing
+  related: [amr-charging]
