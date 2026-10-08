@@ -1,0 +1,36 @@
+{%- comment -%}
+  One publication. Parameters: p (an entry from _data/publications.yml),
+  year (true to print the year in the margin).
+{%- endcomment -%}
+{%- assign p = include.p -%}
+{%- capture me_html %}<span class="me">{{ site.me }}</span>{% endcapture -%}
+<li id="{{ p.id }}">
+  <span class="when">{% if include.year %}{{ p.year }}{% endif %}</span>
+  <div class="what">
+    <p class="pub-title">{{ p.title }}</p>
+    <p class="pub-meta">{{ p.authors | replace: site.me, me_html }}</p>
+    <p class="pub-meta">
+      {%- if p.venue %}<cite>{{ p.venue }}</cite>{% if p.details %}, {% endif %}{% endif -%}
+      {{ p.details }}
+    </p>
+    {%- if p.award %}
+    <p class="pub-award">{{ p.award }}</p>
+    {%- endif %}
+    <ul class="pub-links">
+      {%- if p.abstract %}
+      <li><button class="abs-toggle" type="button" aria-expanded="false" aria-controls="abs-{{ p.id }}">Abstract</button></li>
+      {%- endif %}
+      {%- if p.links.pdf %}<li><a href="{{ p.links.pdf }}">PDF</a></li>{% endif %}
+      {%- if p.links.doi %}<li><a href="{{ p.links.doi }}">Journal</a></li>{% endif %}
+      {%- if p.links.arxiv %}<li><a href="{{ p.links.arxiv }}">arXiv</a></li>{% endif %}
+      {%- if p.links.preprint %}<li><a href="{{ p.links.preprint }}">Preprint</a></li>{% endif %}
+      {%- if p.links.code %}<li><a href="{{ p.links.code }}">Code</a></li>{% endif %}
+      {%- if p.links.slides %}<li><a href="{{ p.links.slides }}">Slides</a></li>{% endif %}
+    </ul>
+    {%- if p.abstract %}
+    <div class="abstract" id="abs-{{ p.id }}" hidden>
+      <p>{{ p.abstract }}</p>
+    </div>
+    {%- endif %}
+  </div>
+</li>

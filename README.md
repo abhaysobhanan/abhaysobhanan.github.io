@@ -1,41 +1,70 @@
+# abhaysobhanan.github.io
 
-# Academic Pages
+Personal academic website of Abhay Sobhanan, built with Jekyll and served by GitHub Pages. There are no plugins beyond the ones GitHub Pages supports, so pushing to `master` is all it takes to publish.
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+## Updating the site
 
-Academic Pages is a Github Pages template for academic websites.
+Almost everything you will want to change is a short entry in a YAML file in `_data/`. Copy an existing entry, edit it, commit.
 
+| To change…                         | Edit                     |
+|------------------------------------|--------------------------|
+| Bio on the home page               | `_pages/about.md`        |
+| News on the home page              | `_data/news.yml`         |
+| Papers                             | `_data/publications.yml` |
+| Research themes on the home page   | `_data/research.yml`     |
+| Talks                              | `_data/talks.yml`        |
+| Teaching                           | `_data/teaching.yml`     |
+| Lab members                        | `_data/team.yml`         |
+| Funded projects                    | `_data/grants.yml`       |
+| CV page                            | `_data/cv.yml`           |
+| Header links                       | `_data/navigation.yml`   |
+| Name, email, address, profile links | `_config.yml`           |
+| Colours, type, spacing             | `assets/css/site.css`    |
 
-# Getting Started
+Each data file starts with a comment explaining its fields.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+### Adding a paper
 
-See more info at https://academicpages.github.io/
+Add an entry at the top of the right group in `_data/publications.yml`:
 
-## Running Locally
+```yaml
+- id: my-new-paper            # used for links like /publications/#my-new-paper
+  type: journal               # review | journal | conference
+  title: "Title of the Paper"
+  authors: "A. Sobhanan, C. Coauthor"
+  venue: Transportation Science
+  details: "60(1), 1–20"
+  year: 2027
+  topics: [learning]          # lists it under that theme on the home page
+  links:
+    doi: https://doi.org/...
+    arxiv: https://arxiv.org/abs/...
+    code: https://github.com/...
+  abstract: >-
+    Paste the abstract here, indented.
+```
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+Your name (`me` in `_config.yml`) is set in bold automatically. Put † after a lab member's name to mark them.
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+### Moving a paper from "under review" to published
 
+Change `type: review` to `type: journal`, then add `venue`, `details` and a `doi` link.
 
-# Maintenance 
+## Pages that are written as prose
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+`_pages/resources.md`, `_pages/prospective-students.md` and `_pages/beyond-research.md` are ordinary Markdown. Second-level headings (`## Heading`) hang in the left margin automatically.
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+`/beyond-research/` (the travel map, driven by `_data/travel.yml`) is live but not linked from the header; uncomment it in `_data/navigation.yml` to show it.
 
-## Bugfixes and enhancements
+## Running locally (optional)
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+```sh
+bundle install
+bundle exec jekyll serve
+```
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+Then open http://localhost:4000.
+
+## Credits
+
+Typeset in [Source Serif 4](https://github.com/adobe-fonts/source-serif) (SIL Open Font License), self-hosted from `assets/fonts/`. Originally forked from the academicpages template; the theme has since been replaced.

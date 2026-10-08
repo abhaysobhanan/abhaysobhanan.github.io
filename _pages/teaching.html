@@ -1,17 +1,26 @@
-<!-- ---
-layout: archive
-title: "Teaching Experience"
+---
+title: Teaching
 permalink: /teaching/
-author_profile: true
---- -->
-<!-- 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-
-
-
-
+layout: page
+---
+<div class="col">
+  {%- for g in site.data.teaching %}
+  <section class="section">
+    <h2>{{ g.group }}</h2>
+    <ol class="dated loose wide">
+      {%- for c in g.courses %}
+      <li>
+        <span class="when">{{ c.tag }}</span>
+        <div class="what">
+          <p class="pub-title">{{ c.title }}</p>
+          <p class="pub-meta">{% if c.detail %}{{ c.detail }}. {% endif %}{{ c.terms }}</p>
+          {%- if c.note %}
+          <p class="pub-meta">{{ c.note | markdownify | remove: "<p>" | remove: "</p>" | strip }}</p>
+          {%- endif %}
+        </div>
+      </li>
+      {%- endfor %}
+    </ol>
+  </section>
+  {%- endfor %}
+</div>

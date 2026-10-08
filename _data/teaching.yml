@@ -1,0 +1,50 @@
+# =============================================================================
+#  Teaching. Each group has a heading and a list of courses.
+#  `tag` is shown in the margin (programme or course code).
+#  `note` accepts Markdown.
+# =============================================================================
+
+- group: Instructor, IIM Bangalore
+  courses:
+    - title: Integer Programming and Combinatorial Optimization
+      tag: PhD
+      detail: PhD core course
+      terms: Term 3, 2025–26 and 2026–27
+    - title: Decision Sciences II
+      tag: MBA
+      detail: MBA core course
+      terms: Term 2, 2026–27
+
+- group: Executive and professional education
+  courses:
+    - title: Clustering and Factor Analysis using Python
+      tag: Exec Ed
+      detail: Business Analytics and Artificial Intelligence, Batch 17
+      terms: September 2026
+    - title: AI in Supply Chain Management Masterclass
+      tag: Exec Ed
+      detail: Organized by The Economic Times with IIM Bangalore and NUS Business School
+      terms: October 29, 2026
+
+- group: Teaching assistant, University of South Florida
+  courses:
+    - title: Deterministic Operations Research / Foundations of Optimization
+      tag: ESI 4312
+      terms: Fall 2021, Fall 2022, Fall 2023
+      note: "Instructors: Hadi Gard (Fall 2021, Fall 2023), Changhyun Kwon (Fall 2022)"
+    - title: Project Management
+      tag: EIN 4142/6145
+      terms: Summer 2021, Summer 2022, Summer 2023
+      note: "Instructor: Walter Silva"
+    - title: Applied Lean Six Sigma
+      tag: EIN 4451/6458
+      terms: Summer 2023
+      note: "Instructor: Walter Silva"
+    - title: Production Control Systems
+      tag: EIN 4333/6336
+      terms: Spring 2022, Spring 2025
+      note: "Instructor: Michael Weng"
+    - title: Probability and Statistics for Engineers
+      tag: EGN 3443
+      terms: Spring 2021
+      note: "Instructor: Alex Savachkin"

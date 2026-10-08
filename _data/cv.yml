@@ -1,0 +1,81 @@
+# =============================================================================
+#  CV page. Each section has a heading and entries.
+#  `when` is shown in the margin (leave it out if not needed).
+#  `what` is the main line; `where` and `note` are optional (Markdown allowed).
+#  Research grants are pulled in automatically from _data/grants.yml.
+# =============================================================================
+
+- section: Appointments
+  entries:
+    - when: 2025–
+      what: Assistant Professor, Decision Sciences Area
+      where: Indian Institute of Management Bangalore
+    - when: 2025–
+      what: IIMB Young Faculty Research Chair
+      where: Indian Institute of Management Bangalore
+    - when: 2021–2025
+      what: Graduate Research and Teaching Assistant
+      where: Department of Industrial and Management Systems Engineering, University of South Florida
+    - when: 2019–2020
+      what: Research Associate, Production & Quantitative Methods Area
+      where: Indian Institute of Management Ahmedabad
+    - when: 2016
+      what: Mitacs Globalink Research Intern
+      where: Department of Mathematics & Statistics, University of Regina, Canada
+
+- section: Education
+  entries:
+    - when: 2025
+      what: PhD in Industrial Engineering
+      where: University of South Florida, USA
+      note: "Advisors: Hadi Gard and Changhyun Kwon"
+    - when: 2019
+      what: BS–MS dual degree in Mathematics
+      where: National Institute of Technology Agartala, India
+      note: >-
+        Visiting student at the Department of Mathematics, Central University
+        of Kerala (Winter 2016), and the C. R. Rao Advanced Institute of
+        Mathematics, Statistics and Computer Science, Hyderabad (Summer 2016)
+
+- section: Awards and honors
+  entries:
+    - what: Summer Dissertation Completion Fellowship
+      where: Office of Graduate Studies, University of South Florida
+      note: Awarded in recognition of academic excellence; includes a $10,000 stipend and coverage of tuition, fees and health insurance.
+    - when: 2024
+      what: IISE Best Paper Award Finalist, Operations Research Division
+      note: "For [A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet](/publications/#truck-drone-bp), with Sasan Mahmoudinazlou, Hadi Charkhgard and Changhyun Kwon"
+    - when: 2024
+      what: International Travel Grant
+      where: Office of Graduate Studies, University of South Florida
+      note: To present at the IISE Annual Conference & Expo 2024
+    - when: 2023
+      what: PhD Student Travel Grant, U.S. National Science Foundation
+      note: To attend the INFORMS TSL Conference 2023, Chicago
+    - when: 2020–2021
+      what: USF Graduate Fellowship
+      note: Awarded to selected first-year graduate students
+    - when: 2016
+      what: Mitacs Globalink Research Internship
+      note: "Scholarship from [Mitacs](https://www.mitacs.ca) promoting research among undergraduate students"
+
+- section: Consulting
+  entries:
+    - when: 2021
+      what: Consultant, Cobblestone Milk Cooperative
+      note: Developed optimization software for milk transportation logistics in Julia, with Sasan Mahmoudinazlou and Changhyun Kwon.
+
+- section: Service
+  entries:
+    - what: Peer reviewer
+      note: "*Transportation Research Board Annual Meeting*, *Transportation Research Record*, *Socio-Economic Planning Sciences*, *IISE Annual Meeting 2024*, *Optimization Letters*"
+    - when: 2023–2024
+      what: Tutor, Giunta Middle School, Tampa
+      note: Through the Bright Young Minds Alliance at the University of South Florida
+    - when: 2022
+      what: Session Chair, Routing and Consolidation Issues in Logistics
+      where: INFORMS Annual Meeting, Indianapolis
+    - when: 2022
+      what: Professional Chair, Tau Beta Pi, Florida Gamma Chapter
+    - when: 2021–2023
+      what: Student Officer, INFORMS Student Chapter at the University of South Florida

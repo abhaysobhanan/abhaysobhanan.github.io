@@ -1,0 +1,297 @@
+# =============================================================================
+#  Publications: powers the Publications page and the paper lists on the home
+#  page. Newest first within each type.
+#
+#  To add a paper, copy an entry and edit it. Fields:
+#    id        short unique name, used for links like /publications/#gancp
+#    type      review | journal | conference
+#    title     paper title
+#    authors   author list as a plain string. Your own name (set as `me` in
+#              _config.yml) is highlighted automatically. Put † after the name
+#              of a CORBIT Lab member to mark them.
+#    venue     journal or proceedings name (shown in italics); leave out
+#              for preprints
+#    details   volume(issue), pages, or e.g. "arXiv preprint, July 2026"
+#    year      year shown in the margin
+#    award     optional, e.g. "Best Paper Award Finalist"
+#    topics    optional, any of: learning, drones, warehouses, fairness
+#              (decides which research theme lists it on the home page)
+#    links     any of: pdf, arxiv, preprint, doi, code, slides (full URLs)
+#    abstract  optional; indent the text under `abstract: >-`
+# =============================================================================
+
+- id: ttp-drone
+  type: review
+  title: "Drive, Pack, Fly: The Travelling Thief Problem with Drone"
+  authors: "K. Murjani†, A. Sobhanan"
+  details: "arXiv preprint, August 2026"
+  year: 2026
+  topics: [drones, learning]
+  links:
+    arxiv: https://arxiv.org/abs/2608.16435
+    code: https://github.com/corbit-lab/ttpd
+  abstract: >-
+    In collection operations, accumulating payload progressively slows the
+    vehicle, imposing a cumulative penalty on routing efficiency. An onboard
+    drone can offset this penalty by retrieving outlying items, thereby
+    shortening the makespan and increasing operational profit. However, travel
+    time remains load-dependent, and each item collected by the ground vehicle
+    shifts the arrival times that govern the drone's launch and rendezvous
+    points. This paper introduces the Travelling Thief Problem with Drone
+    (TTP-D), which maximises the collected profit, net of a time-based rental
+    cost, by jointly optimising item selection, vehicle routing, and flight
+    synchronisation. We formulate a mixed-integer linear program that solves
+    small instances to optimality, and develop both metaheuristics and an
+    attention-based Deep Reinforcement Learning (DRL) policy for larger
+    instances. We further propose a learner-initialised hybrid solver, in which
+    the DRL policy constructs an initial solution that a short annealing run
+    subsequently refines. On two benchmark sets, this hybrid recovers most of
+    the metaheuristic baseline's quality at a fraction of its computational
+    budget, although the largest instances still require the baseline at its
+    full budget. Finally, a sensitivity analysis reveals that the rental ratio
+    is the primary driver of profitability, whereas the fleet parameters affect
+    profit only at the margin.
+
+- id: amr-charging
+  type: review
+  title: "Deep Reinforcement Learning for Dynamic Battery Management of Autonomous Order Pickers"
+  authors: "T. Shaji†, A. Sobhanan, C. Defryn"
+  details: "arXiv preprint, July 2026"
+  year: 2026
+  topics: [warehouses]
+  links:
+    arxiv: https://arxiv.org/abs/2607.05683
+    code: https://github.com/taniya-0/dynamic-battery-drl/
+  abstract: >-
+    Battery charging of Autonomous Mobile Robots (AMRs) in warehouses is a
+    critical operational challenge that heavily impacts both order processing
+    times and throughput. In this study, we address the dynamic AMR charging
+    problem under stochastic order arrivals, where robots must learn optimal
+    charging decisions. Traditional fixed-rule heuristics often prove
+    suboptimal in dynamic environments and fail to account for multi-AMR
+    coordination, leading to severe resource inefficiencies. To overcome these
+    limitations, we propose a Proximal Policy Optimization (PPO)-based Deep
+    Reinforcement Learning (DRL) framework designed for multi-block warehouses
+    with fixed charging stations. Our model dynamically learns two key
+    decisions: charging station selection and optimal charging duration,
+    explicitly accounting for anticipated queuing times at the stations.
+    Extensive numerical experiments benchmark the proposed model against
+    state-of-the-art DRL and traditional heuristic approaches. Results
+    demonstrate that our PPO framework increases order-completion rates by up
+    to 6% compared to the strongest baseline, while significantly reducing the
+    total time dedicated to recharging operations. Furthermore, we validate the
+    model's robustness across diverse warehouse configurations and stochastic
+    arrival rates. Finally, we interpret the learned DRL policy, offering
+    valuable operational insights into its superiority over standard
+    benchmarks.
+
+- id: rpp-mtd
+  type: review
+  title: "Arc Routing Problems with Multiple Trucks and Drones: A Hybrid Genetic Algorithm"
+  authors: "A. Sobhanan, H. Charkhgard, C. Kwon"
+  details: "arXiv preprint, August 2025"
+  year: 2025
+  topics: [drones]
+  links:
+    arxiv: https://arxiv.org/abs/2508.18105
+  abstract: >-
+    Arc-routing problems underpin numerous critical field operations, including
+    power-line inspection, urban police patrolling, and traffic monitoring. In
+    this domain, the Rural Postman Problem (RPP) is a fundamental variant in
+    which a prescribed subset of edges or arcs in a network must be traversed.
+    This paper investigates a generalized form of the RPP, called RPP-mTD,
+    which involves a fleet of multiple trucks, each carrying multiple drones.
+    The trucks act as mobile depots traversing a road network, from which
+    drones are launched to execute simultaneous service, with the objective of
+    minimizing the overall makespan. Given the combinatorial complexity of
+    RPP-mTD, we propose a Hybrid Genetic Algorithm (HGA) that combines
+    population-based exploration with targeted neighborhood searches. Solutions
+    are encoded using a two-layer chromosome that represents: (i) an ordered,
+    directed sequence of required edges, and (ii) their assignment to vehicles.
+    A tailored segment-preserving crossover operator is introduced, along with
+    multiple local search techniques to intensify the optimization. We
+    benchmark the proposed HGA against established single truck-and-drone
+    instances, demonstrating competitive performance. Additionally, we conduct
+    extensive evaluations on new, larger-scale instances to demonstrate
+    scalability. Our findings highlight the operational benefits of closely
+    integrated truck-drone fleets, affirming the HGA's practical effectiveness
+    as a decision-support tool in advanced mixed-fleet logistics.
+
+- id: crowdshipping-equity
+  type: journal
+  title: "Equity-Driven Workload Allocation for Crowdsourced Last-Mile Delivery"
+  authors: "A. Sobhanan, H. Charkhgard, I. Dayarian"
+  venue: Production and Operations Management
+  details: "35(8), 3180–3203"
+  year: 2026
+  topics: [fairness]
+  links:
+    doi: https://doi.org/10.1177/10591478261425875
+    preprint: https://optimization-online.org/?p=27199
+  abstract: >-
+    Crowdshipping, a rapidly growing approach in Last-Mile Delivery (LMD),
+    relies on independent crowdworkers for delivery orders. Building a
+    sustainable network of crowdshippers is essential for the survival and
+    growth of such systems, while their participation is primarily motivated
+    by fair pay. Additionally, the financial well-being of crowdworkers is
+    sensitive to fair compensation, especially for those who depend on
+    crowdwork as their main source of income. Therefore, equitable workload
+    allocation and compensation mechanisms in crowdsourcing platforms will
+    benefit both platforms and crowdworkers. We aim to answer several questions
+    gig-economy platforms interested in fair pay may ask: How to measure
+    equity, assess the cost benefits, and manage potential drawbacks? Our main
+    contribution is the proposal of a practical equity-oriented framework
+    tailored to crowdshipping within an LMD environment. This framework draws
+    inspiration from the real-world operations of a group of crowdshipping
+    platforms and operates in real-time. At its core is a bi-objective
+    optimization process that balances equity and cost, aiming to address the
+    study's main research questions. Built on a theoretical foundation, it
+    enables the use of various equity measures and allows us to identify the
+    equity measure that most reliably explores the trade-offs between cost and
+    equity. We show that even a marginal sacrifice in cost efficiency (e.g.,
+    2.5%) can significantly improve equity, potentially up to 39%. We provide
+    actionable recommendations for practitioners, offering insights into
+    selecting equity measures. We demonstrate that significant improvements in
+    pay equity can be achieved with minimal increases in company's operational
+    costs. Our experiments reveal that the best level of equity is achieved
+    when the pool of employed crowdshippers is kept as small as possible. We
+    quantify the loss of high and low-performing crowdshippers as the
+    crowdshipper pool size increases, offering further insights for workforce
+    management.
+
+- id: drl-order-picking
+  type: journal
+  title: "Deep Reinforcement Learning for Dynamic Order Picking in Warehouse Operations"
+  authors: "S. Mahmoudinazlou, A. Sobhanan, H. Charkhgard, A. Eshragh, G. Dunn"
+  venue: Computers & Operations Research
+  details: "Article 107112"
+  year: 2025
+  topics: [warehouses]
+  links:
+    doi: https://doi.org/10.1016/j.cor.2025.107112
+    arxiv: https://arxiv.org/abs/2408.01656
+    code: https://github.com/Sasanm88/DRL-Order-Picking
+  abstract: >-
+    Order picking is a pivotal operation in warehouses that directly impacts
+    overall efficiency and profitability. This study addresses the dynamic
+    order picking problem, a significant concern in modern warehouse
+    management, where real-time adaptation to fluctuating order arrivals and
+    efficient picker routing are crucial. Traditional methods, which often
+    depend on static optimization algorithms designed around fixed order sets
+    for the picker routing, fall short in addressing the challenges of this
+    dynamic environment. To overcome these challenges, we propose a Deep
+    Reinforcement Learning (DRL) framework tailored for single-block warehouses
+    equipped with an autonomous picking device. By dynamically optimizing
+    picker routes, our approach significantly reduces order throughput times
+    and unfulfilled orders, particularly under high order arrival rates. We
+    benchmark our DRL model against established algorithms, utilizing
+    instances generated based on standard practices in the order picking
+    literature. Experimental results demonstrate the superiority of our DRL
+    model over benchmark algorithms. For example, at a high order arrival rate
+    of 0.09 (i.e., 9 orders per 100 units of time on average), our approach
+    achieves an order fulfillment rate of approximately 98%, compared to the
+    82% fulfillment rate observed with benchmarking algorithms. We further
+    investigate the integration of a hyperparameter in the reward function
+    that allows for flexible balancing between distance traveled and order
+    completion time. Finally, we demonstrate the robustness of our DRL model
+    on out-of-sample test instances.
+
+- id: gancp
+  type: journal
+  title: "Genetic Algorithms with Neural Cost Predictor for Solving Hierarchical Vehicle Routing Problems"
+  authors: "A. Sobhanan, J. Park, J. Park, C. Kwon"
+  venue: Transportation Science
+  details: "59(2), 322–339"
+  year: 2025
+  topics: [learning]
+  links:
+    doi: https://doi.org/10.1287/trsc.2023.0369
+    arxiv: https://arxiv.org/abs/2310.14157
+    code: https://github.com/abhaysobhanan/GANCP
+  abstract: >-
+    When vehicle routing decisions are intertwined with higher-level
+    decisions, the resulting optimization problems pose significant challenges
+    for computation. Examples are the multi-depot vehicle routing problem
+    (MDVRP), where customers are assigned to depots before delivery, and the
+    capacitated location routing problem (CLRP), where the locations of depots
+    should be determined first. A simple and straightforward approach for such
+    hierarchical problems would be to separate the higher-level decisions from
+    the complicated vehicle routing decisions. For each higher-level decision
+    candidate, we may evaluate the underlying vehicle routing problems to
+    assess the candidate. As this approach requires solving vehicle routing
+    problems multiple times, it has been regarded as impractical in most
+    cases. We propose a novel deep-learning-based approach called Genetic
+    Algorithm with Neural Cost Predictor (GANCP) to tackle the challenge and
+    simplify algorithm developments. For each higher-level decision candidate,
+    we predict the objective function values of the underlying vehicle routing
+    problems using a pre-trained graph neural network without actually solving
+    the routing problems. In particular, our proposed neural network learns
+    the objective values of the HGS-CVRP open-source package that solves
+    capacitated vehicle routing problems. Our numerical experiments show that
+    this simplified approach is effective and efficient in generating
+    high-quality solutions for both MDVRP and CLRP and has the potential to
+    expedite algorithm developments for complicated hierarchical problems. We
+    provide computational results evaluated in the standard benchmark
+    instances used in the literature.
+
+- id: production-inventory
+  type: journal
+  title: "Optimal control of a dynamic production-inventory system with various cost criteria"
+  authors: "S. Golui, C. Pal, R. Manikandan, A. Sobhanan"
+  venue: Annals of Operations Research
+  details: "337(1), 75–103"
+  year: 2024
+  links:
+    doi: https://doi.org/10.1007/s10479-023-05716-5
+  abstract: >-
+    In this article, we investigate the dynamic control problem of a
+    production-inventory system. Here, demands arrive at the production unit
+    according to a Poisson process and are processed in an FCFS manner. The
+    processing time of the customer's demand is exponentially distributed.
+    Production manufacturers produce items on a make-to-order basis to meet
+    customer demands. The production is run until the inventory level becomes
+    sufficiently large. We assume that the production time of an item follows
+    an exponential distribution and that the amount of time for the produced
+    item to reach the retail shop is negligible. In addition, we assume that
+    no new customer joins the queue when there is void inventory. Moreover,
+    when a customer is waiting in an infinite FIFO queue for service, he/she
+    does not leave the queue even if the inventory is exhausted. This yields
+    an explicit product-form solution for the steady-state probability vector
+    of the system. The optimal policy that minimizes the
+    discounted/average/pathwise average total cost per production is derived
+    using a Markov decision process approach. We find an optimal policy using
+    value/policy iteration algorithms. Numerical examples are discussed to
+    verify the proposed algorithms.
+
+- id: truck-drone-bp
+  type: conference
+  title: "A branch-and-price algorithm for emergency humanitarian logistics with a mixed truck-drone fleet"
+  authors: "A. Sobhanan, S. Mahmoudinazlou, H. Charkhgard, C. Kwon"
+  venue: Proceedings of the IISE Annual Conference & Expo 2024
+  year: 2024
+  award: "Best Paper Award Finalist, IISE Operations Research Division"
+  topics: [drones]
+  links:
+    preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4915810
+  abstract: >-
+    Humanitarian aid distribution often prioritizes rapid relief operations or
+    emergency services under time constraints, as opposed to commercial
+    transportation problems, where the primary objective is to minimize
+    operational costs. Drones can offer immense potential to achieve this goal
+    by leveraging their aerial mobility. Specifically, drones can surpass
+    ground transportation and navigate directly through disrupted or
+    inaccessible roads, ensuring the quickest path to deliver aid where the
+    ground vehicle may face obstacles. However, drones have limitations in
+    terms of flying range and load capacity. To effectively provide
+    time-sensitive emergency services, combining a ground vehicle with one or
+    more aerial vehicles enhances coverage. Our approach integrates a truck as
+    a mobile depot for multiple drones, where a drone battery is replenished
+    on landing after a flight, and the fleet operates in tandem to serve the
+    locations visited. We formulate a mixed-integer linear programming (MILP)
+    model to maximize the weighted sum of locations served by this mixed
+    truck-drone fleet under time constraints. We further develop a
+    branch-and-price algorithm to solve this problem, where the pricing
+    subproblem is solved using dynamic programming recursions with dominance
+    rules. Our results demonstrate the computational superiority of this
+    method compared to a commercial optimization solver and its potential for
+    expediting aid distribution during an emergency.

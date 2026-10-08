@@ -1,0 +1,34 @@
+# =============================================================================
+#  Research themes shown on the home page. Each theme lists the papers in
+#  _data/publications.yml whose `topics` include the theme's `id`.
+# =============================================================================
+
+- id: learning
+  title: Learning inside optimization algorithms
+  text: >-
+    Hierarchical routing problems require solving many routing subproblems
+    along the way. I train neural networks to predict what those subproblems
+    cost, so that search can skip solving them, and pair learned construction
+    policies with metaheuristics that refine what the policy builds.
+
+- id: drones
+  title: Trucks and drones
+  text: >-
+    Mixed fleets in which trucks serve as mobile depots for drones, for
+    humanitarian relief, arc routing and pickup operations. I develop exact
+    methods such as branch-and-price, and hybrid genetic algorithms for
+    instances too large to solve exactly.
+
+- id: warehouses
+  title: Automated warehouses
+  text: >-
+    Deep reinforcement learning for decisions made in real time as orders
+    arrive: how autonomous pickers should route, and when and where mobile
+    robots should recharge.
+
+- id: fairness
+  title: Fair work in last-mile delivery
+  text: >-
+    How gig-economy delivery platforms can spread work and pay more evenly
+    across their crowdshippers. Giving up 2.5% in cost can improve pay equity
+    by as much as 39%.

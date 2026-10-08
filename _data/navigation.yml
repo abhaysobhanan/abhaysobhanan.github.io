@@ -1,31 +1,18 @@
-# main links links
+# Links in the site header, in order.
 main:
-  - title: "Publications"
+  - title: Publications
     url: /publications/
-
-  - title: "Projects"
+  - title: Projects
     url: /projects/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-
-  - title: "Team"
+  - title: Talks
+    url: /talks/
+  - title: Teaching
+    url: /teaching/
+  - title: Lab
     url: /team/
-
-  - title: "Resources"
+  - title: CV
+    url: /cv/
+  - title: Resources
     url: /resources/
-
-  # - title: "Beyond Research"
+  # - title: Beyond research
   #   url: /beyond-research/
-
-  # - title: "Miscellaneous"
-  #   url: /year-archive/
-    
-  # - title: "Guide"
-  #   url: /markdown/

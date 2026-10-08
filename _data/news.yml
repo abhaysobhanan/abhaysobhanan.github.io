@@ -1,0 +1,21 @@
+# =============================================================================
+#  News: newest first. The home page shows the first 6 items.
+#  `text` accepts Markdown: *italics*, **bold**, [link text](https://...)
+# =============================================================================
+
+- date: Sep 2026
+  text: Received the IIMB Challenge Grant.
+
+- date: Apr 2026
+  text: Received the ANRF Prime Minister Early Career Research Grant.
+
+- date: Jan 2026
+  text: >-
+    [Paper on workload equity in crowdshipping](/publications/#crowdshipping-equity)
+    accepted for publication in *Production and Operations Management*.
+
+- date: Aug 2025
+  text: Joined the Indian Institute of Management Bangalore as an Assistant Professor.
+
+- date: Jun 2025
+  text: Defended my PhD in Industrial Engineering at the University of South Florida.

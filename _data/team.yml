@@ -1,0 +1,47 @@
+# =============================================================================
+#  CORBIT Lab members, shown on the Lab page.
+#  Photos go in /images/students/. `papers` lists ids from publications.yml.
+#  To move someone to past members, cut their entry and paste it under
+#  `alumni`, then add `period` and `project`.
+# =============================================================================
+
+current:
+  - name: Aditi Anand
+    photo: /images/students/AditiAnand.jpg
+    role: Project Associate I
+    since: August 2026
+    bio: Aditi's research interests include the optimization of neural networks via mathematical methods.
+    linkedin: https://www.linkedin.com/in/aditi-anand-27836b210
+
+  - name: Taniya Shaji
+    photo: /images/students/TaniyaShaji.jpeg
+    role: Project Associate I
+    since: December 2025
+    bio: Taniya's research focuses on deep reinforcement learning and optimization of warehouse operations.
+    linkedin: https://www.linkedin.com/in/taniya-shaji-6b1570214/
+    papers: [amr-charging]
+
+external:
+  - name: Kabir Murjani
+    photo: /images/students/KabirMurjani.jpeg
+    role: B.Tech. Electrical Engineering, Nirma University
+    since: February 2026
+    bio: >-
+      Kabir is working on solving the combined knapsack and traveling salesman
+      problem. He also worked as a summer intern at the CORBIT Lab during
+      May–June 2026.
+    linkedin: https://www.linkedin.com/in/murj
+    papers: [ttp-drone]
+
+  - name: Anshul Agrawal
+    photo: /images/students/AnshulAgrawal.jpg
+    role: B.E. Industrial Engineering, M.S. Ramaiah Institute of Technology
+    since: March 2026
+    bio: Anshul's research interests cover operational optimization using stochastic discrete-event simulation.
+    linkedin: https://www.linkedin.com/in/anshul-agrawal-8508722b0/
+
+alumni:
+  - name: Vivek Kumar Gupta
+    period: Nov 2025 – Feb 2026
+    role: BS Economic Sciences, IIT Kanpur (remote project)
+    project: LLM-Assisted Evolutionary Search for the Traveling Thief Problem

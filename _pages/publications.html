@@ -1,0 +1,30 @@
+---
+title: Publications
+permalink: /publications/
+layout: page
+# Section order and headings. `type` matches the field in _data/publications.yml.
+sections:
+  - { type: review,     title: Under review }
+  - { type: journal,    title: Journal articles }
+  - { type: conference, title: Conference proceedings }
+---
+<div class="col">
+  {%- for s in page.sections %}
+  {%- assign items = site.data.publications | where: "type", s.type %}
+  {%- if items.size > 0 %}
+  <section class="section" aria-labelledby="{{ s.type }}">
+    <h2 id="{{ s.type }}">{{ s.title }}</h2>
+    <ol class="dated loose years">
+      {%- assign prev = nil %}
+      {%- for p in items %}
+      {%- if p.year != prev %}{% assign show = true %}{% else %}{% assign show = false %}{% endif %}
+      {% include pub.html p=p year=show %}
+      {%- assign prev = p.year %}
+      {%- endfor %}
+    </ol>
+  </section>
+  {%- endif %}
+  {%- endfor %}
+
+  <p class="footnote">† Member of the <a href="{{ '/team/' | relative_url }}">CORBIT Lab</a>. See also my <a href="{{ site.profiles[0].url }}">Google Scholar profile</a>.</p>
+</div>

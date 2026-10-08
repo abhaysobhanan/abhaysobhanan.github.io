@@ -1,0 +1,101 @@
+# =============================================================================
+#  Talks: newest first within each type.
+#  type: invited | tutorial | conference
+#  `year` is shown in the margin; `date` is shown after the venue.
+# =============================================================================
+
+- type: invited
+  title: "Powering Automated Warehouses: Dynamic Routing and Cooperative Charging for Order-Picking Devices"
+  venue: University of Antwerp, Belgium
+  date: April 22, 2026
+  year: 2026
+
+- type: invited
+  title: Machine Learning-Driven Logistics Optimization
+  venue: Frontiers Symposium in Data Science 2026, IISER Thiruvananthapuram, India
+  date: January 31, 2026
+  year: 2026
+
+- type: invited
+  title: Towards Equitable Workload Distribution in Last-Mile Delivery for the Gig Economy
+  venue: MIT Center for Transportation & Logistics, Cambridge, Massachusetts, USA
+  date: April 8, 2025
+  year: 2025
+
+- type: tutorial
+  title: Machine Learning-Driven Logistics Optimization
+  venue: Online Short-Term Training Program, NIT Calicut, India
+  date: December 19, 2025
+  year: 2025
+
+- type: tutorial
+  title: Introduction to Machine Learning Models
+  venue: Data Science Bootcamp 2024, INFORMS Student Chapter at the University of South Florida
+  date: April 19, 2024
+  year: 2024
+
+- type: tutorial
+  title: Attention Networks for Combinatorial Optimization
+  venue: INFORMS Student Chapter at the University of South Florida
+  date: Fall 2023
+  year: 2023
+
+- type: conference
+  title: "Towards Scalable and Optimal Routing: A Genetic Algorithm Enhanced with Neural Cost Prediction"
+  venue: POMS India International Conference, IIM Sambalpur, India
+  date: December 13–16, 2025
+  year: 2025
+
+- type: conference
+  title: A Deep Reinforcement Learning Framework for Adaptive Real-Time Order Picking
+  venue: POMS India International Conference, IIM Sambalpur, India
+  date: December 13–16, 2025
+  year: 2025
+
+- type: conference
+  title: A Hybrid Genetic Algorithm for the Rural Postman Problem with Multiple Trucks and Drones
+  venue: Association of Asia-Pacific Operational Research Societies (APORS) Youth Forum 2025, The Hong Kong Polytechnic University
+  date: November 29, 2025
+  year: 2025
+
+- type: conference
+  title: "Towards Equitable Workload Distribution in Last-Mile Delivery for the Gig Economy: The Dispatch Zone-Wave Problem"
+  venue: INFORMS Annual Meeting, Seattle, USA
+  date: October 20–23, 2024
+  year: 2024
+
+- type: conference
+  title: A Branch-and-Price Algorithm for Emergency Humanitarian Logistics with a Mixed Truck-Drone Fleet
+  venue: IISE Annual Conference & Expo 2024, Montreal, Canada
+  date: May 18–21, 2024
+  year: 2024
+
+- type: conference
+  title: Optimizing Fairness and Efficiency in Heterogeneous Fleet Open Vehicle Routing Problem
+  venue: 34th Annual POMS Conference, Minneapolis, USA
+  date: April 25–29, 2024
+  year: 2024
+
+- type: conference
+  title: Solving Large-Scale Multi-Depot Vehicle Routing Problems via Decomposition and Deep Learning
+  venue: INFORMS Transportation and Logistics Society Triennial Conference, Chicago, USA
+  date: July 23–26, 2023
+  year: 2023
+
+- type: conference
+  title: Solving the Multi-Depot Vehicle Routing Problem by a Genetic Algorithm with Learning to Evaluate Individuals
+  venue: INFORMS Annual Meeting, Indianapolis, USA
+  date: October 16–19, 2022
+  year: 2022
+
+- type: conference
+  title: Dynamic Allocation of E-commerce Orders to Order-fulfillment Centers under Disruptions
+  venue: Operational Research Society of India Annual Conference, IIM Ahmedabad, India
+  date: December 15–18, 2019
+  year: 2019
+
+- type: conference
+  title: Integrated TOPSIS-AHP MCDM using Possibility Mean and Variance in Type-2 Fuzzy Environment
+  venue: International Conference on Applied and Computational Mathematics 2018, IIT Kharagpur, India
+  date: November 23–25, 2018
+  year: 2018
