@@ -52,7 +52,7 @@
 
   --margin: 11rem;     /* width of the hanging margin */
   --gutter: 2.75rem;   /* space between margin and text */
-  --measure: 37rem;    /* text column width */
+  --measure: 41rem;    /* text column width */
 
   --serif: "Source Serif 4", Charter, "Bitstream Charter",
            Cambria, Georgia, serif;
@@ -451,6 +451,15 @@ main { padding-bottom: 5rem; }
 .site-footer p { margin: 0; }
 .site-footer .updated { margin-top: 1.25rem; color: var(--faint); }
 
+/* Justified paragraphs on the home page */
+.intro-body > p,
+.theme > p,
+#together ~ p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
 /* ---------- narrow screens ---------- */
 
 @media (max-width: 54rem) {
@@ -499,6 +508,13 @@ main { padding-bottom: 5rem; }
   .intro-body > p:first-child { font-size: 1.15rem; }
 
   .prose > :has(+ h2) { margin-bottom: 2.5rem; }
+
+  .intro-body > p,
+  .theme > p,
+  #together ~ p {
+    text-align: left;
+    hyphens: manual;
+  }
 }
 
 @media print {
