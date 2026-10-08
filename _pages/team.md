@@ -181,16 +181,20 @@ author_profile: true
   </div>
 </div>
 
-<!-- ## Past Members
+## Past Members
 
 <ul class="alumni-list">
-  <li>
+  <!-- <li>
     <strong>Kabir Murjani</strong> (Internship, May-June,  2026) <br>
-    <em>Project:</em> Combined knapsack and traveling salesman problem <br>
+    <em>Project:</em> Combined knapsack and traveling salesman problem <br> -->
     <!-- <em>First Position:</em> Assistant Professor at XYZ University -->
   <!-- </li> -->
-
-<!-- </ul>  -->
+  <li>
+    <strong>Vivek Kumar Gupta</strong> (Remote Project, Nov 2025 - Feb 2026) <br>
+    BS Economic Sciences, IIT Kanpur. <br>
+    <em>Project:</em> LLM-Assisted Evolutionary Search for the Traveling Thief Problem <br> 
+  </li>
+</ul> 
 
 
 

@@ -25,6 +25,7 @@ redirect_from:
 ---
 
 ### 📢 Recent News & Updates
+* **[Sep 2026]** Received IIMB Challenge Grant.
 * **[Apr 2026]** Received ANRF Prime Minister Early Career Research Grant.
 * **[Jan 2026]** Paper on workload equity in crowdshipping accepted for publication in Production and Operations Management journal.
 * **[Aug 2025]** Joined the Indian Institute of Management Bangalore as an Assistant Professor!
