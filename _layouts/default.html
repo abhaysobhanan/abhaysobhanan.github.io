@@ -8,8 +8,9 @@
   <meta name="theme-color" content="#16191c" media="(prefers-color-scheme: dark)">
   <link rel="preload" href="{{ '/assets/fonts/source-serif-4-latin-standard-normal.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">
   <link rel="icon" href="{{ '/images/favicon.svg' | relative_url }}" type="image/svg+xml">
-  <link rel="alternate icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
   {%- if jekyll.environment == "production" and site.google_analytics %}
   {% include analytics.html %}
   {%- endif %}
